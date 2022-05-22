@@ -269,7 +269,7 @@ A la fin de la scène, on rajoute 1PP à chaque personnage impliqué dans la sc�
 
 ==== Qui interprète le résultat ?
 
-En fait les cartes ne font que donner le résultat et c'est au perdant ou au gagnant de donner une interprétation du résultat.
+En fait les cartes ne font que donner le résultat et c'est au gagnant de donner une interprétation du résultat.
 
 Pour autant et c'est un point très important, le joueur ne joue pas le rôle d'un personnage ne lui appartenant pas. C'est une chose de subir un résultat, c'en est une autre de donner l'interprétation du résultat du point de vue du personnage qu'on interprète.
 
