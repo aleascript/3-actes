@@ -10,6 +10,7 @@ Version 0.1
 :toclevels: 4
 :toc-title: Table des matières
 
+[verse, AleaScript, Auteur du jeu]
 _L'imagination est une ressource intemporelle, infinie, gratuite et partageable..._
 
 image::licence.png[]
@@ -46,15 +47,35 @@ Le jeu est fait pour 2 à 5 joueurs. On peut jouer à plus mais cela ralentirait
 
 ==== Coulisses
 
+Une coulisse représente un vivier de décors et de personnages potentiels.
+
+Elles sont matérialisées par de simples fiches posées sur la table qui indique leur NOM en majuscules et des traits éventuels les caractérisant.
+
+On dispose autour les personnages et les décors rattachés à la coulisse tant qu'ils n'ont pas été pris ou attribué à un joueur.
+
 ==== Décors
 
+Un décor représente un lieu de l'histoire où l'on pourra jouer des scènes.
+
+On peut créer des décors autant qu'on veut tant qu'ils sont rattachés à une coulisse.
+
+Si ce n'est pas le cas, il faut d'abord créer la coulisse pour 1 point de résolution puis le décor. On verra cela plus bas.
+
+Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le NOM du décor en majuscules.
+
 ==== Rôles
+
+Un rôle désigne un personnnage de la pièce.
+
+On peut créer des personnages autant qu'on veut tant qu'ils sont rattachés à une coulisse ou qu'il sont liés à une scène.
+
+Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le ROLE en majuscules ainsi que le NOM du personnage. On garde un peu d'espace pour indiquer les points de présence (PP) par des traits ou des signes +. Cela sera dévéloppé plus loin.
 
 === Points de présence (PP)
 
 A la fin d'une scène, on fait le point sur chaque personnage impliqué dans la scène et celui-ci gagne un point de présence (PP).
 
-On les note en faisant un trait sur la fiche pliée en deux de ce personnage.
+On les note en faisant un signe plus (+) sur la fiche pliée en deux de ce personnage si le personnage était présent dans la scène et un trait (|) si ce dernier n'a été que cité dans la scène. Ainsi à force d'être cité un personnage gagne de la présence. En effet, un autre trait transformera le 1er trait en +.
 
 Dans l'acte III, il n'y a plus d'évolution des points de présence et d'ailleurs ces derniers ne servent pas dans les résolutions.
 
@@ -64,11 +85,14 @@ Les PP appartiennent à un personnage.
 
 On gagne des points de résolution quand on est le perdant d'une scène. En effet, cela simule l'acharnement du destin sur certains personnages qui en échange accumulent des points de résolution qui leur permettront d'infléchir le destin dans l'acte III.
 
+De plus à l'acte III, on ne gagne plus de PR.
+
 * Permet de voler un élément à un autre joueur (2PR)
 * Permet de créer une interruption comme complication (acte II) (1PR)
 * Permet de rajouter une carte lors d'un tirage défavorable (sauf dans l'acte III) (1PR)
 * Remplace les points de présence dans l'acte III (1 carte supplémentaire par PR consommé)
 * Permet de créer une nouvelle coulisse après le prélude (sauf dans l'acte III) (1PR)
+* Permet de créer un nouvel élément dans l'acte III (1PR)
 * Permet de sauver un rôle (Acte II) (1PR)
 
 Les PR appartiennent à un joueur.
@@ -114,6 +138,10 @@ Chaque joueur propose parmi les éléments suivants:
 Chaque proposition est soit validée, soit invalidée par les autres.
 
 Si elle est validée on la note sur une fiche et on passe au joueur suivant.
+
+La validation se fait collectivement en discutant entre les joueurs.
+
+Un joueur peut poser un veto contre le choix des autres mais dans ce cas, il passe son tour et attendra que les autres aient joué pour faire une proposition.
 
 On s'arrête quand plus aucun joueur n'a de propositions à faire sur le cadre de la pièce.
 
@@ -192,7 +220,7 @@ Une scène de lien doit idéalement faire émerger quelque chose d'intéressant 
 
 Concrètement, on peut créer un lien:
 
-* soit par une recontre directe
+* soit par une rencontre directe
 * soit de manière indirecte : en agissant de sorte que tel personnage soit impacté. Auquel cas la scène est divisée en deux: une 1ere partie montrant l'action du 1er personnage et une 2eme partie montrant l'impact et la réaction du 2eme personnage.
 
 Chaque personnage impliqué dans une scène de lien gagne à la fin de la scène 1PP.
@@ -225,7 +253,7 @@ Par défaut, l'adversité est représentée par le joueur à gauche.
 
 * *Ralentissement*: le joueur tire une carte et la pose face cachée pour signifier qu'il va créer une complication qui va ralentir la progression du protagoniste vers son objectif. On utilise alors les règles du tirage pour savoir comment narrer cette complication.
 
-* *Ajout*: Le joueur ajouter un élément narratif à l'histoire. Le joueur tire une carte et la pose face visible.
+* *Ajout*: Le joueur ajoute un élément narratif à l'histoire. Le joueur tire une carte et la pose face visible.
 
 === Les tirages
 
@@ -254,13 +282,14 @@ Si on gagne ou si on perd avec un chiffre (2 à 10), on interprète le résultat
 
 Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco (qui est un exploit du point de vue du gagnant).
 
+
+[.stripes-even,cols="5,20",options="header"]
 |===
 |Tirage|Resultat
-|2-10|Succès ou échec (partiel?)
-|V,Q,K,As|Succès ou échec (ferme)
+|2-10|Succès ou échec (de complication ou partiel?)
+|V,Q,K,As|Succès ou échec (ferme) qui termine la scène.
 |Joker|Exploit ou fiasco
 |===
-
 A  la fin de la scène, on remélange les cartes pour le prochain tirage.
 
 Le perdant d'un tirage gagne 1PR (sauf à l'acte III).
@@ -269,7 +298,7 @@ A la fin de la scène, on rajoute 1PP à chaque personnage impliqué dans la sc�
 
 ==== Qui interprète le résultat ?
 
-En fait les cartes ne font que donner le résultat et c'est au gagnant de donner une interprétation du résultat.
+En fait les cartes ne font que donner le résultat et c'est au joueur gagnant du tirage de donner une interprétation du résultat.
 
 Pour autant et c'est un point très important, le joueur ne joue pas le rôle d'un personnage ne lui appartenant pas. C'est une chose de subir un résultat, c'en est une autre de donner l'interprétation du résultat du point de vue du personnage qu'on interprète.
 
@@ -281,7 +310,9 @@ On récapitule les enjeux à résoudre pour l'acte III.
 
 == Acte III
 
-On ne gagne plus de points de présence (PP).
+L'acte III est constitué de scènes de résolutions. Les objectifs non atteints sont à portée de main sans complication intermédiaire, des scènes explicatives permettent d'expliquer certaines zones d'ombre et des scènes de confrontation permettent de régler définitivement certains liens.
+
+On ne gagne plus de points de présence (PP) ni de points de résolution (PR).
 
 On ne peut plus créer de nouvelle coulisse.
 
@@ -367,6 +398,89 @@ Spécifités du mode solo:
 * On cumule forcément tous les PR.
 * On les utilise comme on veut pour les résolutions de l'acte III pour donner des poids à telle ou telle option.
 
+<<<
+== Memento
+
+_Plan d'une partie:_
+
+* Prélude
+    - Choix du souffleur
+    - Choix de la durée
+    - Choix du cadre
+    - Choix des coulisses: nouvelle coulisse ou 1-2 traits pour une coulisse existante
+    - Création des décors et des rôles (5')
+* Acte I
+* Acte II
+* Acte III
+* Epilogues
+
+_Propositions de cadre_:
+
+[.stripes-even]
+|===
+|  Univers?
+|  Thème?
+|  Ton?
+|  Pitch?
+|  Précision?
+|  Restriction?
+|===
+
+<<<
+_Différences entre les actes:_
+[.stripes-even,cols="10,10,10,10",options="header""]
+|===
+| Catégorie | Acte I | Acte II | Acte III
+
+s| Début | Par le souffleur | A gauche du souffleur | A droite du souffleur
+
+s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux à résoudre
+
+s| But | Créer des liens et distribuer les rôles | Définir des objectifs et créer des complications | Résoudre par l'explication ou la confrontation
+
+s| Scènes
+a|....
+Scènes de liens:
+* Direct
+* Indirect
+a|....
+Scènes de complication:
+* interruption (-1PR)
+*  ralentissement (carte cachée)
+* ajout (carte retournée)
+a|....
+Scènes de résolution:
+* Explication
+* Confrontation
+
+s| Répartition | Distribution des rôles | Protagoniste ou participant | Tout le monde peut dépenser ses PR
+
+s| Evolution 2+^| PP pour les personnages et PR pour le perdant | Plus de gain de PR et PP.
+
+s| Tirage
+a| Rare mais possible en confrontation
+a|....
+* On utilise les PP
+* Si résultat défavorable, 1 carte = 1 PR
+a| On utilise les PR
+
+s| Létalité | Réserve ou confrontation | Tous sauf max PP du joueur (-1PR pour sauver un perso) | Tous les personnages
+
+s| Création d'élément 2+^| -1 PR pour une nouvelle coulisse | -1 PR pour un nouveau perso
+
+s| Voler un élément 3+^| -2PR
+|===
+
+__Table des tirages:__
+[.stripes-even,cols="5,20",options="header"]
+|===
+|Tirage|Resultat
+|2-10|Succès ou échec (de complication ou partiel?)
+|V,Q,K,As|Succès ou échec (ferme) qui termine la scène.
+|Joker|Exploit ou fiasco
+|===
+
+<<<
 == Notes de version
 
 Cette version est la version bêta du jeu. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
