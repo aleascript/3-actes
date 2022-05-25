@@ -6,7 +6,7 @@ Version 0.1
 :description: Jeu narratif en 3 actes
 :keywords: JdR, Solo
 :imagesdir: ./resources
-:toc: preamble
+:toc: macro
 :toclevels: 2
 :toc-title: Table des matières
 
@@ -16,6 +16,12 @@ Jeu narratif en 3 Actes
 _L'imagination est une ressource intemporelle, infinie, gratuite et partageable..._
 
 image::licence.png[]
+
+<<<
+
+toc::[]
+
+<<<
 
 == Présentation
 
@@ -72,7 +78,7 @@ Un rôle désigne un personnnage de la pièce.
 
 On peut créer des personnages autant qu'on veut tant qu'ils sont rattachés à une coulisse ou qu'il sont liés à une scène.
 
-Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le ROLE en majuscules ainsi que le NOM du personnage. On garde un peu d'espace pour indiquer les points de présence (PP) par des traits ou des signes +. Cela sera dévéloppé plus loin.
+Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le ROLE en majuscules ainsi que le NOM du personnage. On garde un peu d'espace pour indiquer les points de présence (PP) par des traits ou des signes +. Cela sera développé plus loin.
 
 === Points de présence (PP)
 
