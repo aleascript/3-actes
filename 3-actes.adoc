@@ -6,9 +6,11 @@ Version 0.1
 :description: Jeu narratif en 3 actes
 :keywords: JdR, Solo
 :imagesdir: ./resources
-:toc:
-:toclevels: 4
+:toc: preamble
+:toclevels: 2
 :toc-title: Table des matières
+
+Jeu narratif en 3 Actes
 
 [verse, AleaScript, Auteur du jeu]
 _L'imagination est une ressource intemporelle, infinie, gratuite et partageable..._
@@ -39,6 +41,7 @@ Le jeu est fait pour 2 à 5 joueurs. On peut jouer à plus mais cela ralentirait
 === Matériel
 
 * Un bloc notes
+* Des feuilles pour prendre des notes à côté
 * Des crayons ou des feutres
 * Des jetons pour les points de résolution (PR)
 * Un paquet de cartes à jouer de 54 cartes
@@ -105,15 +108,15 @@ Les PR appartiennent à un joueur.
 * *Acte III*: on joue les résolutions par l'explication et/ou par la confrontation.
 * *Épilogues*: on termine par des scènes de fin propre à chaque joueur.
 
-=== Le prélude
+== Le prélude
 
-==== Choix de la durée
+=== Choix de la durée
 
 On se donne une heure de fin pour terminer l'acte II.
 
 Prévoir 30'-45' avant la fin effective de la partie.
 
-==== Choix du souffleur
+=== Choix du souffleur
 
 On choisit généralement le joueur qui connaît le mieux les règles.
 
@@ -122,18 +125,54 @@ Il est en charge:
 * D'exposer les règles
 * D'aider les joueurs à trouver des scènes ou des complications mais en leur posant uniquement des questions.
 
-==== Choix du cadre
+=== Choix du cadre
 
 On tourne dans l'ordre des aiguilles d'une montre.
 
 Chaque joueur propose parmi les éléments suivants:
 
-* Un univers
+* Un genre
+
+....
+Heroïc-Fantasy, Science-Fiction, Post-Apocalypse, Zombies & Survivants, Anges & Démons, SteamPunk, Espionnage moderne, Historique, Pulp, SuperHéros, Pirates, Loups-Garous & Vampires...
+....
+
+* Un univers:
+
+....
+Donjons & Dragons, Games of Thrones, Terre du Milieu, StarWars, StarTrek, SpaceOpera, Alien, Peter Pan, Contes de Grim, Guerre de 100 ans, Antiquité, Seconde Guerre Mondiale...
+....
+
+
 * Un thème
+
+....
+Amour, Trahison, Ouverture vs Fermeture, Soi vs Autre, Harmonie vs Désordre, Tradition vs Changement, Vie vs Mort, Vérité vs Illusion, Guerre & Paix...
+....
+
 * Un ton
+
+....
+Sérieux, Sombre, Fun, Léger, Epique, Angoissant, Horrifique, Mystérieux, Poétique, Réaliste...
+....
+
 * Un pitch
+
+....
+un pacte avec le diable (Bretagne Celtique), panique au lycée, attaque de monstres (années 50)...
+....
+
 * Une restriction
+
+....
+pas de magie, pas de super pouvoirs...
+....
+
 * Une précision
+
+....
+La magie est interdite, les animaux parlent...
+....
 
 Chaque proposition est soit validée, soit invalidée par les autres.
 
@@ -145,7 +184,9 @@ Un joueur peut poser un veto contre le choix des autres mais dans ce cas, il pas
 
 On s'arrête quand plus aucun joueur n'a de propositions à faire sur le cadre de la pièce.
 
-==== Choix des coulisses
+On n'est absolument pas obligé de faire une proposition pour chacun des items pour commencer.
+
+=== Choix des coulisses
 
 
 On commence par le joueur à gauche du souffleur et on tourne dans le sens des aiguilles d'une montre. Lorsque c'est son tour, chaque joueur a le choix entre créer une nouvelle coulisse ou typer une coulisse existante. On s'arrête quand tous les joueurs ont joué.
@@ -160,7 +201,7 @@ Les coulisses sont avant tout une vue de l'esprit pour organiser la création d'
 
 On peut ajouter un ou deux traits particuliers à une coulisse existante.
 
-==== Création des décors et des rôles
+=== Création des décors et des rôles
 
 Le tour se joue en parallèle et est chronométré. Il dure 5 minutes.
 
@@ -168,7 +209,7 @@ Chaque joueur peut créer des décors ou des personnages en les rattachant à un
 
 Le joueur peut les créer et les garder pour soi et ne les montrer qu'à la fin du tour ou les disposer à côté de la coulisse pendant le tour.
 
-===== Elément décor
+==== Elément décor
 
 Synonyme de lieu.
 
@@ -178,7 +219,7 @@ Un décor possède juste un nom.
 
 Le joueur possédant un décor est en charge de la description de ce dernier.
 
-===== Elément rôle
+==== Elément rôle
 
 Synonyme de personnage.
 
@@ -190,7 +231,7 @@ Les joueurs jouent donc les rôles qu'ils possèdent et ceci même quand un autr
 
 Il est également en charge de lui donner un nom si cela n'a pas été fait dans le prélude.
 
-===== Létalité
+==== Létalité
 
 Les personnages de la réserve peuvent disparaitre à tout moment.
 
@@ -198,13 +239,15 @@ Un personnage peut également disparaitre dans une confrontation pendant l'acte 
 
 Dans l'acte II, n'importe quel personnage peut mourir sauf qu'il faut que le joueur conserve un personnage avec un nombre max de PP.
 
+....
 Exemples:
 
 Dr Jones (1PP), Cynthia (2PP), Paul (2PP), James (3PP): Dr Jones, Cynthia et Paul peuvent disparaitre mais pas James.
 
-Dr Jones (1PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé.
+Dr Jones (1PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé._
+....
 
-=== La réserve
+==== La réserve
 
 La réserve désigne la zone de la table où se trouve des personnages cités mais n'ayant pas encore été impliqués dans une scène.
 
@@ -233,7 +276,7 @@ Une petite pause de quelques minutes pour laisser reposer tout ça.
 
 == Acte II
 
-L'acte II est l'acte des complications et des péripéties.
+L'acte II est l'acte des péripéties qui se traduit donc par des scènes d'interaction et/ou par des complications.
 
 On commence par le joueur à gauche du souffleur.
 
@@ -243,9 +286,15 @@ Le joueur choisit un ou plusieurs personnages de son camp et informe les autres 
 
 Puis avant de jouer la scène, chaque autre joueur en tournant dans le sens anti-horaire et donc en commençant par celui à droite du joueur protagoniste, se positionne en déclarant s'il souhaite créer une complication ou pas.
 
+Note: quand on a pris l'habitude de jouer, on peut poser sa carte de complication sans respecter l'ordre. Si un autre joueur à sa gauche a la préséance, alors on retire sa carte et on lui laisse poser sa complication.
+
 Si aucune complication n'a lieu, on joue la scène représentant l'atteinte ou pas de l'objectif en procédant à un tirage.
 
 Par défaut, l'adversité est représentée par le joueur à gauche.
+
+=== Les interactions
+
+Une péripétie peut n'être qu'une simple interaction entre personnages. Pour autant, toute interaction peut engendrer une incertitude quant au comportement de tel ou tel personnage. Dans ce cas, on rentrera dans le cadre d'une complication et on procédera sans doute à un tirage.
 
 === Les complications
 
@@ -275,13 +324,12 @@ En cas d’égalité parfaite, on interprète l’égalité et on fait un autre 
 
 Si on gagne ou si on perd avec une figure, le résultat est ferme:
 
-* En cas de réussite, l’objectif de la scène est rempli. On résout la complication et on narre comment l’objectif a été rempli.
-* En cas d'échec, le gagnant doit révéler un problème ou une faiblesse du personnage perdant.
+* En cas de réussite, la complication est terminée ou l'objectif de scène est atteint. Le protagoniste expose le résultat que les joueurs jouent ensuite et on clot la scène.
+* En cas d'échec, le gagnant doit révéler un problème ou une faiblesse du protagoniste perdant. On clot la scène.
 
-Si on gagne ou si on perd avec un chiffre (2 à 10), on interprète le résultat comme un résultat d'étape. Cela signifie que les joueurs peuvent continuer la scène s’ils le souhaitent en jouant une nouvelle complication ou en continuant sur la complication en cours. Ce n’est pas une obligation. S’ils ne souhaitent pas continuer, on traite le résultat comme si c’était un succès ou un échec de scène avec une figure. Pour signifier qu'on souhaite continuer la résolution, le perdant pose une carte face cachée devant lui.
+Si on gagne ou si on perd avec un chiffre (2 à 10), on interprète le résultat comme un résultat d'étape. Cela signifie que les joueurs peuvent continuer la scène s’ils le souhaitent en jouant une nouvelle complication ou en continuant sur la complication en cours. Ce n’est pas une obligation. S’ils ne souhaitent pas continuer, on traite le résultat comme si c’était un succès ou un échec de scène avec une figure. Pour signifier qu'on souhaite continuer la résolution, le perdant pose une carte face cachée devant lui. Si on souhaite créer une nouvelle complication, on fait de même en posant une carte cachée devant soi.
 
-Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco (qui est un exploit du point de vue du gagnant).
-
+Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco (qui est un exploit du point de vue du gagnant). Quelque chose d'inattendu et de pas agréable advient.
 
 [.stripes-even,cols="5,20",options="header"]
 |===
@@ -302,6 +350,8 @@ En fait les cartes ne font que donner le résultat et c'est au joueur gagnant du
 
 Pour autant et c'est un point très important, le joueur ne joue pas le rôle d'un personnage ne lui appartenant pas. C'est une chose de subir un résultat, c'en est une autre de donner l'interprétation du résultat du point de vue du personnage qu'on interprète.
 
+Les tirages ne mesurent pas la compétence de tel ou tel personnage mais permettent de déterminer quel joueur aura le droit d'interpréter le résultat et donne une orientation du résultat. C'est différent des habitudes de JdR classique mais cela permet juste de partager l'autorité narrative entre les joueurs. Une fois le résultat interprété c'est aux joueurs de faire réagir les personnages impliqués.
+
 == 2ème Entracte
 
 Une petite pause de quelques minutes pour laisser reposer tout ça.
@@ -311,6 +361,8 @@ On récapitule les enjeux à résoudre pour l'acte III.
 == Acte III
 
 L'acte III est constitué de scènes de résolutions. Les objectifs non atteints sont à portée de main sans complication intermédiaire, des scènes explicatives permettent d'expliquer certaines zones d'ombre et des scènes de confrontation permettent de régler définitivement certains liens.
+
+On commence par le joueur à droite du souffleur.
 
 On ne gagne plus de points de présence (PP) ni de points de résolution (PR).
 
@@ -322,7 +374,7 @@ On ne peut plus sauver un personnage et les 1er rôles peuvent mourir.
 
 On ne peut plus faire de complication pour empêcher d'atteindre un objectif.
 
-Il faut dépenser 1PR pour créer un nouvel élément.
+Il faut dépenser 1PR pour créer un nouveau personnage (hors figurant dans une scène).
 
 * Résolutions par explication
 
@@ -339,7 +391,6 @@ Le joueur peut arriver à la scène de confrontation finale. On joue la scène c
 == Epilogues
 
 Chaque joueur peut exposer une scène montrant un ou plusieurs de ses personnages. La scène est bien sûr liée aux résolutions de l’acte III. Cela permet de conclure l'histoire.
-
 
 == Appendice
 
@@ -418,6 +469,7 @@ _Propositions de cadre_:
 
 [.stripes-even]
 |===
+|  Genre?
 |  Univers?
 |  Thème?
 |  Ton?
@@ -426,13 +478,24 @@ _Propositions de cadre_:
 |  Restriction?
 |===
 
+__Table des tirages:__
+[.stripes-even,cols="5,20",options="header"]
+|===
+|Tirage|Resultat
+|2-10|Succès ou échec (de complication ou partiel?)
+|V,Q,K,As|Succès ou échec (ferme) qui termine la scène.
+|Joker|Exploit ou fiasco
+|===
+
 <<<
 _Différences entre les actes:_
-[.stripes-even,cols="10,10,10,10",options="header""]
+[.stripes-even,cols="6,10,12,10",options="header""]
 |===
 | Catégorie | Acte I | Acte II | Acte III
 
-s| Début | Par le souffleur | A gauche du souffleur | A droite du souffleur
+s| Résumé | Expositions | Péripéties | Résolutions
+
+s| Début | Le souffleur | A gauche du souffleur | A droite du souffleur
 
 s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux à résoudre
 
@@ -444,7 +507,7 @@ Scènes de liens:
 * Direct
 * Indirect
 a|....
-Scènes de complication:
+Scènes d'interaction ou de complication:
 * interruption (-1PR)
 *  ralentissement (carte cachée)
 * ajout (carte retournée)
@@ -455,13 +518,16 @@ Scènes de résolution:
 
 s| Répartition | Distribution des rôles | Protagoniste ou participant | Tout le monde peut dépenser ses PR
 
-s| Evolution 2+^| PP pour les personnages et PR pour le perdant | Plus de gain de PR et PP.
+
+s| Préséance | Sens horaire | Sens horaire pour la distribution et sens antihoraire pour les complications | Sens horaire
+
+s| Evolution 2+^| PP pour les personnages et PR pour le perdant d'un tirage | Plus de gain de PR et PP.
 
 s| Tirage
 a| Rare mais possible en confrontation
 a|....
 * On utilise les PP
-* Si résultat défavorable, 1 carte = 1 PR
+* Si résultat défavorable, 1 carte pour 1 PR
 a| On utilise les PR
 
 s| Létalité | Réserve ou confrontation | Tous sauf max PP du joueur (-1PR pour sauver un perso) | Tous les personnages
@@ -471,14 +537,7 @@ s| Création d'élément 2+^| -1 PR pour une nouvelle coulisse | -1 PR pour un n
 s| Voler un élément 3+^| -2PR
 |===
 
-__Table des tirages:__
-[.stripes-even,cols="5,20",options="header"]
-|===
-|Tirage|Resultat
-|2-10|Succès ou échec (de complication ou partiel?)
-|V,Q,K,As|Succès ou échec (ferme) qui termine la scène.
-|Joker|Exploit ou fiasco
-|===
+
 
 <<<
 == Notes de version
