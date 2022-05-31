@@ -1,0 +1,6 @@
+extends: default
+base:
+  font-family: Helvetica
+  font_size: 12
+  line_height_length: 10
+  font-color: #000000
