@@ -37,9 +37,11 @@ Ce n'est pas un jeu de rôles traditionnel dans le sens où vous allez jouer plu
 De plus le but du jeu n'est pas de faire gagner tel ou tel personnage mais de créer une
 histoire et de la mener jusqu'à un dénouement.
 
+3 Actes est globalement un jeu coopératif car tous les joueurs coopèrent pour raconter une histoire jusqu'à son dénouement. Pour autant, beaucoup de scènes permettent de jouer des oppositions et donc d'être en compétition avec les autres joueurs à travers les personnages antagonistes. Les joueurs sont également en compétition dans l'acte III pour les différentes résolutions. C'est donc aussi un jeu localement compétitif.
+
 3 Actes vous permet juste de savoir quand c'est vous ou un autre joueur qui a la main sur la narration. Contrairement aux JdR il faut donc accepter pleinement de laisser les autres joueurs avoir une emprise sur vos personnages.
 
-3 Actes est conçu pour vous aider à créer les éléments de l'histoire puis a les faire évoluer pour développer une intrigue jusqu'à son terme.
+3 Actes est conçu pour vous aider à créer les éléments de l'histoire puis à les faire évoluer pour développer une intrigue jusqu'à son terme.
 
 Les bifurcations dans les scènes sont gérées simplement avec des cartes.
 
@@ -143,13 +145,13 @@ Chaque joueur propose parmi les éléments suivants:
 * Un genre
 
 ....
-Heroïc-Fantasy, Science-Fiction, Post-Apocalypse, Zombies & Survivants, Anges & Démons, SteamPunk, Espionnage moderne, Historique, Pulp, SuperHéros, Pirates, Loups-Garous & Vampires...
+Heroïc-Fantasy, Science-Fiction, Post-Apocalypse, Zombies & Survivants, Anges & Démons, SteamPunk, Espionnage moderne, Historique, Pulp, SuperHéros, Pirates, Fantastique, Loups-Garous & Vampires, Uchronie, Romance, Telenovelas...
 ....
 
 * Un univers:
 
 ....
-Donjons & Dragons, Games of Thrones, Terres du Milieu, StarWars, StarTrek, SpaceOpera, Alien, Peter Pan, Contes de Grim, Guerre de 100 ans, Antiquité, Seconde Guerre Mondiale, Les Années 50 aux Etats-Unis, les années 70 en France, Asie médiévale, Afrique antique ...
+Donjons & Dragons, Games of Thrones, Terres du Milieu, StarWars, StarTrek, SpaceOpera, Alien, Peter Pan, Contes de Grim, Guerre de 100 ans, Antiquité, Seconde Guerre Mondiale, Les Années 50 aux Etats-Unis, les années 70 en France, Asie médiévale, Afrique antique, Dystopie ...
 ....
 
 
@@ -174,13 +176,13 @@ Un pacte avec le diable, Panique au lycée, Attaque de monstres...
 * Une restriction
 
 ....
-Pas de magie, Pas de super pouvoirs, La technologie est bannie...
+Pas de magie, Pas de super pouvoirs, La technologie est bannie, Pas de mort-vivants...
 ....
 
 * Une précision
 
 ....
-La magie est interdite, les animaux parlent...
+La magie est interdite, les animaux parlent, ...
 ....
 
 Chaque proposition est soit validée, soit invalidée par les autres. On en discute collégialement.
@@ -202,7 +204,7 @@ On commence par le joueur à gauche du souffleur et on tourne dans le sens des a
 
 Une coulisse est un élément de l'histoire qui servira de réservoir de décors et de personnages. Il peut être synonyme de faction en quelque sorte.
 
-Les coulisses sont avant tout une vue de l'esprit pour organiser la création d'éléments mais il y a autant de possibilités d'antagonisme ou de support entre des personnages d'une même coulisse qu'entre des personnages de coulisses différentes.
+Les coulisses sont avant tout une vue de l'esprit pour organiser la création d'éléments et il y a autant de possibilités d'antagonisme ou de support entre des personnages d'une même coulisse qu'entre des personnages de coulisses différentes.
 
 * Typer une coulisse
 
@@ -253,7 +255,7 @@ Exemples:
 
 Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP): Dr Jones, Cynthia et Paul peuvent disparaitre mais pas James.
 
-Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé._
+Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé mais James et Mister O ne peuvent pas mourir tous les deux._
 ....
 
 Et enfin dans l'acte III, plus aucun personnage n'est protégé et peut mourir à l'issue d'une confrontation dont l'objectif est de tuer le personnage. 
@@ -281,11 +283,13 @@ Chaque personnage impliqué dans une scène de lien gagne à la fin de la scène
 
 Chaque personnage cité dans une scène de lien gagne 1/2 PP. 
 
-On finit l'acte I quand tous les personnages ont au moins 1 PP.
+On finit l'acte I quand tous les personnages ont au moins 1 ou 1/2 PP ou si l'on est 1h avant la fin prévue de l'acte II. Ce dernier cas est utile quand les joueurs ont été particulièrement prolixes et ont créé beaucoup d'éléments pendant le prélude. Les éléments non liés restent en réserve et pourront intervenir dans l'acte II ou III.
 
 == 1er entracte
 
 Une petite pause de quelques minutes pour laisser reposer tout ça.
+
+On peut relire le cadre pour voir si l'on a respecté les choix des joueurs et s'il y a des ajustements à faire dans l'acte suivant.
 
 == Acte II
 
@@ -319,9 +323,17 @@ Une péripétie peut n'être qu'une simple interaction entre personnages. Pour a
 
 === Les tirages
 
-On utilise les tirages quand l'issue du jeu est incertaine.
+Dès qu'on a déterminé les éléments antagonistes dans une scène, on décrit ce qui se joue et on procède à un tirage. Un des joueurs (généralement le gagnant hormis en cas de fiasco) interprète alors le résultat puis tous les joueurs impliqués jouent le résultat.
 
-Un tirage permet de déterminer le résultat d’une scène ou d’une complication.
+On peut également procéder un tirage quand deux joueurs se disputent légitimement la narration.
+
+Le but d'un tirage est donc:
+
+1. De créer une bifurcation narrative
+2. D'en donner une orientation (coup de pouce ou baton dans les roues?)
+3. De déterminer qui va interpréter cette orientation
+
+En début de scène, on remélange les cartes qui ne seront plus remélangées ensuite pendant toute la durée de la scène.
 
 Pour une scène donnée, on utilisera le même paquet sans le mélanger puis on distribuera les cartes faces cachées en commençant par le joueur ayant créé la scène et en continuant dans le sens des aiguilles d'une montre avec les autres joueurs impliqués dans le tirage. Si un joueur a plusieurs éléments impliqués, chaque élément reçoit ses cartes par ordre alphabétique.
 
@@ -337,21 +349,24 @@ En cas d’égalité parfaite, on interprète l’égalité et on fait un autre 
 
 Si on gagne ou si on perd avec une figure, le résultat est ferme:
 
-* En cas de réussite, la complication est terminée ou l'objectif de scène est atteint. Le protagoniste expose le résultat que les joueurs jouent ensuite et on clot la scène.
-* En cas d'échec, le gagnant doit révéler un problème ou une faiblesse du protagoniste perdant. On clot la scène.
+* En cas de réussite ferme, la complication est terminée ou l'objectif de scène est atteint. Le protagoniste expose le résultat que les joueurs jouent ensuite et on clot la scène.
+* En cas d'échec ferme, le gagnant doit révéler un problème ou une faiblesse du protagoniste perdant. On clot la scène.
 
-Si on gagne ou si on perd avec un chiffre (2 à 10), on interprète le résultat comme un résultat d'étape. Cela signifie que les joueurs peuvent continuer la scène s’ils le souhaitent en jouant une nouvelle complication ou en continuant sur la complication en cours. Ce n’est pas une obligation. S’ils ne souhaitent pas continuer, on traite le résultat comme si c’était un succès ou un échec de scène avec une figure. Pour signifier qu'on souhaite continuer la résolution, le perdant pose une carte face cachée devant lui. Si on souhaite créer une nouvelle complication, on fait de même en posant une carte cachée devant soi.
+Si on gagne ou si on perd avec un chiffre (2 à 10), on interprète le résultat comme un résultat d'étape. Cela signifie que les joueurs peuvent continuer la scène s’ils le souhaitent en jouant une nouvelle complication ou en continuant sur la complication en cours. Ce n’est pas une obligation. S’ils ne souhaitent pas continuer, on traite le résultat comme si c’était un succès ou un échec ferme.
 
-Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco (qui est un exploit du point de vue du gagnant). Quelque chose d'inattendu et de pas agréable advient.
+Pour signifier qu'on souhaite continuer la résolution, le perdant pose une carte face cachée devant lui.
+
+De la même façon, si on souhaite créer une nouvelle complication, on fait de même en posant une carte cachée devant soi.
+
+Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco. Quelque chose d'inattendu et de pas agréable advient. Le résultat est interprété par le 1er joueur à gauche du perdant non impliqué dans l'opposition. Le joueur peut également interpréter le résultat comme étant un exploit du point de vue de l'opposant.
 
 [.stripes-even,cols="5,20",options="header"]
 |===
-|Tirage|Resultat
-|2-10|Succès ou échec (de complication ou partiel?)
-|V,Q,K,As|Succès ou échec (ferme) qui termine la scène.
-|Joker|Exploit ou fiasco
+|Carte max|Resultat
+|2-10|Echec ou réussite (de complication ou partiel?) (interprété par le gagnant)
+|V,Q,K,As|Echec ou réussite (ferme) qui termine la scène (interprété par le gagnant)
+|Joker|Fiasco de l'opposant (ou exploit du gagnant) (interprété par un joueur non impliqué)
 |===
-A  la fin de la scène, on remélange les cartes pour le prochain tirage.
 
 Le perdant d'un tirage gagne 1 PR (sauf à l'acte III).
 
@@ -359,15 +374,17 @@ A la fin de la scène, on rajoute 1 PP à chaque personnage impliqué dans la sc
 
 ==== Qui interprète le résultat ?
 
-En fait les cartes ne font que donner le résultat et c'est au joueur gagnant du tirage de donner une interprétation du résultat.
+En fait les cartes ne font que donner le résultat et c'est au joueur gagnant du tirage de donner une interprétation du résultat, sauf pour les Jokers qui sont interprétés par le 1er joueur non impliqué dans le tirage à gauche du perdant.
 
-Pour autant et c'est un point très important, le joueur ne joue pas le rôle d'un personnage ne lui appartenant pas. C'est une chose de subir un résultat, c'en est une autre de donner l'interprétation du résultat du point de vue du personnage qu'on interprète.
+Pour autant et c'est un point très important, le joueur ne joue pas le rôle d'un personnage ne lui appartenant pas. C'est une chose d'interpréter le résultat du tirage, c'en est une autre de donner l'interprétation du résultat du point de vue du personnage qu'on interprète.
 
 Les tirages ne mesurent pas la compétence de tel ou tel personnage mais permettent de déterminer quel joueur aura le droit d'interpréter le résultat et donne une orientation du résultat. C'est différent des habitudes de JdR classique mais cela permet juste de partager l'autorité narrative entre les joueurs. Une fois le résultat interprété c'est aux joueurs de faire réagir les personnages impliqués.
 
 == 2ème Entracte
 
 Une petite pause de quelques minutes pour laisser reposer tout ça.
+
+On peut relire le cadre pour voir si l'on a respecté les choix des joueurs et s'il y a des ajustements à faire dans l'acte suivant.
 
 On récapitule les enjeux à résoudre pour l'acte III.
 
@@ -494,10 +511,10 @@ _Propositions de cadre_:
 __Table des tirages:__
 [.stripes-even,cols="5,20",options="header"]
 |===
-|Tirage|Resultat
-|2-10|Succès ou échec (de complication ou partiel?)
-|V,Q,K,As|Succès ou échec (ferme) qui termine la scène.
-|Joker|Exploit ou fiasco
+|Carte max|Resultat
+|2-10|Echec ou réussite (de complication ou partiel?) (interprété par le gagnant)
+|V,Q,K,As|Echec ou réussite (ferme) qui termine la scène (interprété par le gagnant)
+|Joker|Fiasco de l'opposant (ou exploit du gagnant) (interprété par un joueur non impliqué)
 |===
 
 <<<
