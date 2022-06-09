@@ -18,11 +18,11 @@ _L'imagination est une ressource intemporelle, infinie, gratuite et partageable.
 
 image::licence.png[]
 
-<<<
+//<<<
 
 toc::[]
 
-<<<
+//<<<
 
 == Présentation
 
@@ -572,7 +572,7 @@ s| Voler un élément 3+^| -2PR
 <<<
 == Notes de version
 
-Cette version est la version bêta du jeu. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
+Cette version est la version *bêta* du jeu du *5 juin 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
 
 Peu importe comment vous avez obtenu les règles, n’hésitez pas à nous envoyer tout commentaire ou question par courriel car vos avis et retours nous sont précieux: aleascript@gmail.com.
 
