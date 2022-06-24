@@ -18,11 +18,11 @@ _L'imagination est une ressource intemporelle, infinie, gratuite et partageable.
 
 image::licence.png[]
 
-//<<<
+<<<
 
 toc::[]
 
-//<<<
+<<<
 
 == Présentation
 
@@ -63,25 +63,38 @@ Une coulisse représente un vivier de décors et de personnages potentiels.
 
 Les coulisses sont matérialisées par de simples fiches posées sur la table qui indiquent leur NOM en majuscules et des traits éventuels les caractérisant.
 
-On dispose autour les personnages et les décors rattachés à la coulisse tant qu'ils n'ont pas été pris ou attribué à un joueur.
+On dispose autour les personnages et les décors rattachés à la coulisse tant qu'ils n'ont pas été pris ou attribués à un joueur.
+
+image::coulisse.png[]
 
 ==== Décors
 
 Un décor représente un lieu de l'histoire où l'on pourra jouer des scènes.
 
-On peut créer des décors autant qu'on veut tant qu'ils sont rattachés à une coulisse.
+On peut créer autant de décors qu'on veut tant qu'ils sont rattachés à une coulisse.
 
 Si ce n'est pas le cas, il faut d'abord créer la coulisse pour 1 point de résolution puis le décor. On verra cela plus bas.
 
 Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le NOM du décor en majuscules.
+Pour les distinguer des rôles, on peut plier la fiche par la diagonale ou utiliser des fiches de couleur différente.
+
+image::decor.png[]
 
 ==== Rôles
 
-Un rôle désigne un personnnage de la pièce.
+Un rôle désigne un personnage de la pièce.
 
-On peut créer des personnages autant qu'on veut tant qu'ils sont rattachés à une coulisse ou qu'il sont liés à une scène.
+On peut créer autant de personnages qu'on veut tant qu'ils sont rattachés à une coulisse ou qu'il sont liés à une scène.
 
 Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le ROLE en majuscules ainsi que le NOM du personnage. On garde un peu d'espace pour indiquer les points de présence (PP) par des traits ou des signes +. Cela sera développé plus loin.
+
+image::role.png[]
+
+==== La réserve
+
+La réserve désigne la zone de la table où se trouve les personnages cités mais n'ayant pas encore été impliqués dans une scène.
+
+En cas d'attribution d'un élément de réserve non joué à cause d'une complication ou autre, alors l'élément retourne en réserve.
 
 === Points de présence (PP)
 
@@ -91,25 +104,137 @@ On les note en faisant un signe plus (+) sur la fiche pliée en deux de ce perso
 
 Les 1/2 PP: si un personnage n'a été que cité dans la scène, on note sur sa fiche un simple trait vertical (|) ou on transforme un trait vertical en +. Ainsi à force d'être cité un personnage gagne de la présence. En effet, un autre trait transformera le 1er trait en +.
 
-Dans l'acte III, il n'y a plus d'évolution des points de présence et d'ailleurs ces derniers ne servent pas dans les résolutions.
+Si l'on se rend compte que certains joueurs utilisent la citation à mauvais escient juste pour "gagner" des PP pour tel ou tel rôle et que cela ne colle pas à l'esprit de la table, on peut ajouter la contrainte suivante pour obtenir 1/2 PP si le rôle a été cité et qu'on ait aussi appris quelque chose de nouveau sur ce dernier.
+
+Dans l'acte III, il n'y a plus d'évolution des points de présence et d'ailleurs ces derniers ne servent pas dans les tirages.
 
 Les PP appartiennent à un personnage.
 
 === Points de résolution (PR)
 
-On gagne des points de résolution quand on est le perdant d'une scène. En effet, cela simule l'acharnement du destin sur certains personnages qui en échange accumulent des points de résolution qui leur permettront d'infléchir le destin dans l'acte III.
+On gagne des points de résolution à la fin de l'acte I ou lors des tirages.
 
-De plus à l'acte III, on ne gagne plus de PR.
+A l'acte III, on ne peut plus gagner de PR.
 
-* Permet de voler un élément à un autre joueur (2PR)
-* Permet de créer une interruption comme complication (acte II) (1 PR)
-* Permet de rajouter une carte lors d'un tirage défavorable (sauf dans l'acte III) (1 PR)
-* Remplace les points de présence dans l'acte III (1 carte supplémentaire par PR consommé)
-* Permet de créer une nouvelle coulisse après le prélude (sauf dans l'acte III) (1 PR)
-* Permet de créer un nouvel élément dans l'acte III (1 PR)
-* Permet de sauver un rôle (Acte II) (1 PR)
+Les PR permettent:
+
+* de voler un élément à un autre joueur (2 PR)
+* de créer une interruption comme complication (acte II) (1 PR)
+* de rajouter une carte lors d'un tirage défavorable (sauf dans l'acte III) (1 PR)
+* de remplacer les points de présence dans l'acte III (1 carte supplémentaire par PR consommé)
+* de créer une nouvelle coulisse après le prélude (sauf dans l'acte III) (1 PR)
+* de créer un nouvel élément dans l'acte III (1 PR)
+* de sauver un rôle (Acte II) (1 PR)
 
 Les PR appartiennent à un joueur.
+
+=== Sens de rotation
+
+On tourne dans le sens des aiguilles d'une montre.
+
+=== Distribution des éléments
+
+On distribue les éléments afin que chacun ait à peu près le même nombre d'éléments décors et d'éléments rôles. Comme le sens de rotation est le sens horaire (par la gauche), on commence par les joueurs de gauche et on complète les trous pour les joueurs suivants.
+
+__Exemple: on a 4 joueurs A,B,C et D. A a 2 rôles, B 1 rôle, C 2 rôles, D 0 rôle. Si A crée un nouveau rôle, il sera donné à D. __
+
+
+=== Les scènes: protagoniste(s) & participant(s)
+
+L'unité de jeu de 3 Actes est la scène. Une scène est créée par un joueur qui en définit ainsi le ou les protagonistes, le décor et l'objectif.
+
+Ainsi quand un joueur doit créer une scène, il choisit un ou plusieurs personnages de son camp ou en réserve et informe les autres joueurs de son objectif. Il leur dit également comment il compte s'y prendre pour réaliser son objectif et quelle scène il aimerait jouer représentant l'arrivée du personnage face à son objectif.
+
+Le joueur ayant créé la scène est le joueur protagoniste et ses éléments (décor, rôles) sont les éléments protagonistes de facto. Les autres joueurs ayant un décor ou un rôle impliqués dans la scène sont les joueurs participants et leurs éléments impliqués (décor, rôles) sont les éléments participants.
+
+On joue ensuite la scène. Dans l'acte II, des complications peuvent contrarier l'objectif du protagoniste.
+
+
+=== Les tirages
+
+Dès qu'on a déterminé les éléments antagonistes dans une scène, on décrit ce qui se joue et on procède à un tirage. Un des joueurs (généralement le gagnant hormis en cas de fiasco) interprète alors le résultat puis tous les joueurs impliqués jouent le résultat.
+
+On peut également procéder un tirage quand deux joueurs se disputent légitimement la narration.
+
+Le but d'un tirage est donc:
+
+1. De créer une bifurcation narrative
+2. D'en donner une orientation (coup de pouce ou baton dans les roues?)
+3. De déterminer qui va interpréter cette orientation
+
+En début de scène, on remélange les cartes qui ne seront plus remélangées ensuite pendant toute la durée de la scène.
+
+Pour une scène donnée, on utilisera le même paquet sans le mélanger puis on distribuera les cartes faces cachées en commençant par le joueur ayant créé la scène et en continuant dans le sens des aiguilles d'une montre avec les autres joueurs impliqués dans le tirage. Si un joueur a plusieurs éléments impliqués, chaque élément reçoit ses cartes par ordre alphabétique.
+
+Le joueur décide pour l’élément concerné combien de cartes il veut. Par défaut c’est 1 carte mais on peut aller jusqu’à un nombre de cartes égal aux points de présence (PP) de l’élément.
+
+Une fois les cartes distribuées, on retourne les cartes. Le gagnant est celui qui a la carte la plus élevée.
+
+Les cartes sont classées du 2 à l’As. Les figures sont les Valets, les Reines, les Rois et les As.
+
+En cas d’égalité, on regarde les cartes en dessous.
+
+En cas d’égalité parfaite, on interprète l’égalité et on fait un autre tirage pour connaître le résultat.
+
+Si on gagne ou si on perd avec une figure, le résultat est ferme:
+
+* En cas de réussite ferme, la complication est terminée ou l'objectif de scène est atteint. Le protagoniste expose le résultat que les joueurs jouent ensuite et on clot la scène.
+* En cas d'échec ferme, le gagnant doit révéler un problème ou une faiblesse du protagoniste perdant. On clot la scène.
+
+Si on gagne ou si on perd avec un chiffre (2 à 10), on interprète le résultat comme un résultat d'étape. Cela signifie que les joueurs peuvent continuer la scène s’ils le souhaitent en jouant une nouvelle complication ou en continuant sur la complication en cours. Ce n’est pas une obligation. S’ils ne souhaitent pas continuer, on traite le résultat comme si c’était un succès ou un échec ferme.
+
+Pour signifier qu'on souhaite continuer la résolution, le perdant pose une carte face cachée devant lui.
+
+De la même façon, si on souhaite créer une nouvelle complication, on fait de même en posant une carte cachée devant soi.
+
+Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco. Quelque chose d'inattendu et de pas agréable advient. Le résultat est interprété par le 1er joueur à gauche du perdant non impliqué dans l'opposition. Le joueur peut également interpréter le résultat comme étant un exploit du point de vue de l'opposant.
+
+[.stripes-even,cols="5,20",options="header"]
+|===
+|Carte max|Resultat
+|2-10|Echec ou réussite (de complication ou partiel?) (interprété par le gagnant)
+|V,Q,K,As|Echec ou réussite (ferme) qui termine la scène (interprété par le gagnant)
+|Joker|Fiasco de l'opposant (ou exploit du gagnant) (interprété par un joueur non impliqué)
+|===
+
+Hormis à l'acte III, les tirages sont le moyen de gagner des points de résolution (PR):
+
+* Le perdant d'un tirage gagne 2 PR (en cas d'échec) voire même 3 PR (en cas de fiasco).
+* Le gagnant d'un tirage gagne 1 PR
+
+
+==== Qui interprète le résultat ?
+
+En fait les cartes ne font que donner le résultat et c'est au joueur gagnant du tirage de donner une interprétation du résultat, sauf pour les Jokers qui sont interprétés par le 1er joueur non impliqué dans le tirage à gauche du perdant.
+
+Pour autant et c'est un point très important, le joueur ne joue pas le rôle d'un personnage ne lui appartenant pas. C'est une chose d'interpréter le résultat du tirage, c'en est une autre de donner l'interprétation du résultat du point de vue du personnage qu'on interprète.
+
+Les tirages ne mesurent pas la compétence de tel ou tel personnage mais permettent de déterminer quel joueur aura le droit d'interpréter le résultat et donne une orientation du résultat. C'est différent des habitudes de JdR classique mais cela permet juste de partager l'autorité narrative entre les joueurs. Une fois le résultat interprété c'est aux joueurs de faire réagir les personnages impliqués.
+
+
+==== Létalité
+
+Les personnages de la réserve peuvent disparaitre à tout moment si on le justifie par la fiction.
+
+....
+Exemples: le vieux professeur a été retrouvé assassiné ce matin. Les élèves l'apprennent en arrivant au lycée.
+....
+
+Dans l'acte I, un personnage peut également mourir dans une confrontation.
+
+Dans l'acte II, n'importe quel personnage peut mourir sauf qu'il faut que le joueur conserve un personnage avec un nombre max de PP.
+
+....
+Exemples:
+
+Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP): Dr Jones, Cynthia et Paul peuvent disparaitre mais pas James.
+
+Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé mais James et Mister O ne peuvent pas mourir tous les deux._
+....
+
+Et enfin dans l'acte III, plus aucun personnage n'est protégé et peut mourir à l'issue d'une confrontation dont l'objectif est de tuer le personnage.
+
+<<<
 
 == Déroulement d'une partie
 
@@ -120,6 +245,8 @@ Les PR appartiennent à un joueur.
 * *Épilogues*: on termine par des scènes de fin propre à chaque joueur.
 
 == Le prélude
+
+Le prélude permet de créer les éléments de l'histoire sans les détailler encore.
 
 === Choix de la durée
 
@@ -134,6 +261,7 @@ On choisit généralement le joueur qui connaît le mieux les règles.
 Il est en charge:
 
 * D'exposer les règles
+* De faire les résumés lors des entractes
 * D'aider les joueurs à trouver des scènes ou des complications mais en leur posant uniquement des questions.
 
 === Choix du cadre
@@ -185,7 +313,7 @@ Pas de magie, Pas de super pouvoirs, La technologie est bannie, Pas de mort-viva
 La magie est interdite, les animaux parlent, ...
 ....
 
-Chaque proposition est soit validée, soit invalidée par les autres. On en discute collégialement.
+Un joueur peut également proposer plusieurs choix (c'est à dire plusieurs genres ou plusieurs univers etc...). C'est la discussion avec les autres joueurs qui permettra de choisir. En effet, chaque proposition est ensuite discutée collégialement.
 
 Si elle est validée, on la note sur une fiche et on passe au joueur suivant.
 
@@ -212,7 +340,18 @@ On peut ajouter un ou deux traits particuliers à une coulisse existante.
 
 === Création des décors et des rôles
 
-Le tour se joue en parallèle et est chronométré. Il dure 5 minutes.
+Le tour se joue en parallèle et est chronométré. Il dure 9 minutes moins le nombre de joueurs.
+
+[.stripes-even,cols="5,6",options="header""]
+|===
+| Nombre de joueurs | Durée |
+ 1 | 8' |
+ 2 | 7' |
+ 3 | 6' |
+ 4 | 5' |
+ 5 | 4' |
+ 6 | 3' |
+|===
 
 Chaque joueur peut créer des décors ou des personnages en les rattachant à une des coulisses.
 
@@ -234,43 +373,21 @@ Synonyme de personnage.
 
 Un rôle possède un qualificatif et éventuellement un nom.
 
+Un rôle peut également être un groupe ou être générique. Même si l'on préfère des personnages bien identifiés et bien typés plus intéressants pour la fiction, il arrive, en effet qu'on ait à créer tout un groupe. Le jeu l'autorise. La fiction décidera par la suite si le groupe fait émerger des personnages plus spécifiques.
+
+__Exemple: Commando Delta. Puis plus tard, Lt Gary chef du commando. __
+
 Le joueur possédant un rôle est en charge de son interprétation et sera en charge de faire évoluer les objectifs de ce rôle. Il est également en charge de lui donner un nom si cela n'a pas été fait dans le prélude.
 
 Les joueurs jouent donc les rôles qu'ils possèdent et ceci même quand un autre décide du résultat d'un tirage. En effet, le résultat est une chose, jouer le résultat en est une autre qui n'appartient qu'au joueur possédant le rôle.
 
-==== Létalité
-
-Les personnages de la réserve peuvent disparaitre à tout moment si on le justifie par la fiction.
-
-....
-Exemples: le vieux professeur a été retrouvé assassiné ce matin. Les élèves l'apprennent en arrivant au lycée.
-....
-
-Dans l'acte I, un personnage peut également mourir dans une confrontation. 
-
-Dans l'acte II, n'importe quel personnage peut mourir sauf qu'il faut que le joueur conserve un personnage avec un nombre max de PP.
-
-....
-Exemples:
-
-Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP): Dr Jones, Cynthia et Paul peuvent disparaitre mais pas James.
-
-Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé mais James et Mister O ne peuvent pas mourir tous les deux._
-....
-
-Et enfin dans l'acte III, plus aucun personnage n'est protégé et peut mourir à l'issue d'une confrontation dont l'objectif est de tuer le personnage. 
-
-==== La réserve
-
-La réserve désigne la zone de la table où se trouve les personnages cités mais n'ayant pas encore été impliqués dans une scène.
-
-En cas d'attribution d'un élément de réserve non joué à cause d'une complication ou autre, alors l'élément retourne en réserve.
+<<<
 
 == Acte I
 
 Le but de l'acte I et de créer des liens intéressants tout en distribuant les personnages et les décors de la réserve aux joueurs.
 
-Quand on crée un lien, on choisit un personnage et on attribue les autres aux autres joueurs en commençant par le joueur à gauche et en continuant. Le joueur à gauche choisit l'élément qu'il prend et passe le reste à son voisin jusqu'à ce que tous les éléments aient été distribués.
+Quand on crée un lien, on choisit un rôle et on attribue les autres aux autres joueurs en commençant par le joueur à gauche et en continuant. Le joueur à gauche choisit l'élément qu'il prend et passe le reste à son voisin jusqu'à ce que tous les éléments aient été distribués. Il faut également respecter la règle d'équilibre de la distribution. Donc on donne l'élément au joueur qui en a le moins et s'il y a le choix entre plusieurs éléments, c'est le joueur qui choisit et on continue la distribution.
 
 Une scène de lien doit idéalement faire émerger quelque chose d'intéressant pour la suite du jeu. En fait, autant dans le prélude on a défini des éléments statiques, autant dans l'acte I, le fait de les mettre en relation, cela crée des dynamiques. On apprend qu'un tel est jaloux d'un autre ou qu'un personnage a demandé quelque chose à quelqu'un, etc etc...
 
@@ -283,31 +400,35 @@ Chaque personnage impliqué dans une scène de lien gagne à la fin de la scène
 
 Chaque personnage cité dans une scène de lien gagne 1/2 PP. 
 
+Le joueur devant créer un lien est ensuite le 1er joueur à gauche n'ayant pas été impliqué dans la scène. Il doit choisir un rôle sans présence mais peut impliquer dans sa scène de lien un autre personnage ayant déjà une présence.
+
 On finit l'acte I quand tous les personnages ont au moins 1 ou 1/2 PP ou si l'on est 1h avant la fin prévue de l'acte II. Ce dernier cas est utile quand les joueurs ont été particulièrement prolixes et ont créé beaucoup d'éléments pendant le prélude. Les éléments non liés restent en réserve et pourront intervenir dans l'acte II ou III.
 
 == 1er entracte
 
-Une petite pause de quelques minutes pour laisser reposer tout ça.
+Le souffleur rappelle le cadre choisi lors du prélude et fait un résumé de l'acte I en évoquant les liens et les éventuels enjeux qui ont pu émerger et que l'histoire devra résoudre à un moment.
 
-On peut relire le cadre pour voir si l'on a respecté les choix des joueurs et s'il y a des ajustements à faire dans l'acte suivant.
+Cette phase permet ainsi de s'assurer que tous les joueurs sont bien en phase.
+
+On distribue également autant de Points de résolution (PR) à chaque joueur que le plus petit nombre de rôles possédés par les joueurs.
+
+__Exemple: A 3 rôles, B 2 rôles, C 2 rôles -> on distribue 2 PR à chaque joueur. __
+
 
 == Acte II
 
 L'acte II est l'acte des péripéties qui se traduit donc par des scènes d'interaction et/ou par des complications.
 
-On commence par le joueur à gauche du souffleur.
+On commence par le joueur à gauche du souffleur qui va devoir créer une scène pour faire avancer un objectif ou résoubre un enjeu.
 
-=== Protagoniste & Participants
-
-Le joueur choisit un ou plusieurs personnages de son camp et informe les autres joueurs de son objectif. Il leur dit également comment il compte s'y prendre pour réaliser son objectif et quelle scène il aimerait jouer représentant l'arrivée du personnage face à son objectif.
-
-Puis avant de jouer la scène, chaque autre joueur en tournant dans le sens anti-horaire et donc en commençant par celui à droite du joueur protagoniste, se positionne en déclarant s'il souhaite créer une complication ou pas.
+Avant de jouer une scène, chaque autre joueur en tournant dans le sens anti-horaire et donc en commençant par celui à droite du joueur protagoniste, se positionne en déclarant s'il souhaite créer une complication ou pas.
 
 Note: quand on a pris l'habitude de jouer, on peut poser sa carte de complication sans respecter l'ordre. Si un autre joueur à sa gauche a la préséance, alors on retire sa carte et on lui laisse poser sa complication.
 
 Si aucune complication n'a lieu, on joue la scène représentant l'atteinte ou pas de l'objectif en procédant à un tirage.
 
-Par défaut, l'adversité est représentée par le joueur à gauche.
+Par défaut, l'adversité est représentée par le joueur à droite.
+
 
 === Les interactions
 
@@ -321,72 +442,10 @@ Une péripétie peut n'être qu'une simple interaction entre personnages. Pour a
 
 * *Ajout*: Le joueur ajoute un élément narratif à l'histoire. Le joueur tire une carte et la pose face visible.
 
-=== Les tirages
-
-Dès qu'on a déterminé les éléments antagonistes dans une scène, on décrit ce qui se joue et on procède à un tirage. Un des joueurs (généralement le gagnant hormis en cas de fiasco) interprète alors le résultat puis tous les joueurs impliqués jouent le résultat.
-
-On peut également procéder un tirage quand deux joueurs se disputent légitimement la narration.
-
-Le but d'un tirage est donc:
-
-1. De créer une bifurcation narrative
-2. D'en donner une orientation (coup de pouce ou baton dans les roues?)
-3. De déterminer qui va interpréter cette orientation
-
-En début de scène, on remélange les cartes qui ne seront plus remélangées ensuite pendant toute la durée de la scène.
-
-Pour une scène donnée, on utilisera le même paquet sans le mélanger puis on distribuera les cartes faces cachées en commençant par le joueur ayant créé la scène et en continuant dans le sens des aiguilles d'une montre avec les autres joueurs impliqués dans le tirage. Si un joueur a plusieurs éléments impliqués, chaque élément reçoit ses cartes par ordre alphabétique.
-
-Le joueur décide pour l’élément concerné combien de cartes il veut. Par défaut c’est 1 carte mais on peut aller jusqu’à un nombre de cartes égal aux points de présence (PP) de l’élément.
-
-Une fois les cartes distribuées, on retourne les cartes. Le gagnant est celui qui a la carte la plus élevée.
-
-Les cartes sont classées du 2 à l’As. Les figures sont les Valets, les Reines, les Rois et les As.
-
-En cas d’égalité, on regarde les cartes en dessous.
-
-En cas d’égalité parfaite, on interprète l’égalité et on fait un autre tirage pour connaître le résultat.
-
-Si on gagne ou si on perd avec une figure, le résultat est ferme:
-
-* En cas de réussite ferme, la complication est terminée ou l'objectif de scène est atteint. Le protagoniste expose le résultat que les joueurs jouent ensuite et on clot la scène.
-* En cas d'échec ferme, le gagnant doit révéler un problème ou une faiblesse du protagoniste perdant. On clot la scène.
-
-Si on gagne ou si on perd avec un chiffre (2 à 10), on interprète le résultat comme un résultat d'étape. Cela signifie que les joueurs peuvent continuer la scène s’ils le souhaitent en jouant une nouvelle complication ou en continuant sur la complication en cours. Ce n’est pas une obligation. S’ils ne souhaitent pas continuer, on traite le résultat comme si c’était un succès ou un échec ferme.
-
-Pour signifier qu'on souhaite continuer la résolution, le perdant pose une carte face cachée devant lui.
-
-De la même façon, si on souhaite créer une nouvelle complication, on fait de même en posant une carte cachée devant soi.
-
-Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco. Quelque chose d'inattendu et de pas agréable advient. Le résultat est interprété par le 1er joueur à gauche du perdant non impliqué dans l'opposition. Le joueur peut également interpréter le résultat comme étant un exploit du point de vue de l'opposant.
-
-[.stripes-even,cols="5,20",options="header"]
-|===
-|Carte max|Resultat
-|2-10|Echec ou réussite (de complication ou partiel?) (interprété par le gagnant)
-|V,Q,K,As|Echec ou réussite (ferme) qui termine la scène (interprété par le gagnant)
-|Joker|Fiasco de l'opposant (ou exploit du gagnant) (interprété par un joueur non impliqué)
-|===
-
-Le perdant d'un tirage gagne 1 PR (sauf à l'acte III).
-
-A la fin de la scène, on rajoute 1 PP à chaque personnage impliqué dans la scène.
-
-==== Qui interprète le résultat ?
-
-En fait les cartes ne font que donner le résultat et c'est au joueur gagnant du tirage de donner une interprétation du résultat, sauf pour les Jokers qui sont interprétés par le 1er joueur non impliqué dans le tirage à gauche du perdant.
-
-Pour autant et c'est un point très important, le joueur ne joue pas le rôle d'un personnage ne lui appartenant pas. C'est une chose d'interpréter le résultat du tirage, c'en est une autre de donner l'interprétation du résultat du point de vue du personnage qu'on interprète.
-
-Les tirages ne mesurent pas la compétence de tel ou tel personnage mais permettent de déterminer quel joueur aura le droit d'interpréter le résultat et donne une orientation du résultat. C'est différent des habitudes de JdR classique mais cela permet juste de partager l'autorité narrative entre les joueurs. Une fois le résultat interprété c'est aux joueurs de faire réagir les personnages impliqués.
 
 == 2ème Entracte
 
-Une petite pause de quelques minutes pour laisser reposer tout ça.
-
-On peut relire le cadre pour voir si l'on a respecté les choix des joueurs et s'il y a des ajustements à faire dans l'acte suivant.
-
-On récapitule les enjeux à résoudre pour l'acte III.
+Le souffleur fait un résumé des actes I et II pour que tous les joueurs soient en phase.
 
 == Acte III
 
@@ -406,7 +465,9 @@ On ne peut plus faire de complication pour empêcher d'atteindre un objectif.
 
 Il faut dépenser 1 PR pour créer un nouveau personnage (hors figurant dans une scène).
 
-* Résolutions par explication
+On peut résoudre les enjeux ou atteindre certains objectifs en jouant des scènes d'explication ou de confrontation (voire un mix des deux).
+
+=== Les explications
 
 Le joueur informe les autres joueurs qu'ils souhaitent résoudre un enjeu par explication sans pour autant indiquer quelle explication il souhaite donner.
 
@@ -414,13 +475,15 @@ Si aucun autre joueur n'a de proposition, alors le joueur joue une scène d'expl
 
 Sinon, il faut procéder à un tirage entre joueurs pour déterminer lequel aura le droit de donner son explication.
 
-* Résolutions par confrontation
+=== Les confrontations
 
 Le joueur peut arriver à la scène de confrontation finale. On joue la scène comme dans l'acte II, hormis que les points de PP ne comptent. Mais on peut puiser dans ses PR pour ajouter des cartes.
 
 == Epilogues
 
 Chaque joueur peut exposer une scène montrant un ou plusieurs de ses personnages. La scène est bien sûr liée aux résolutions de l’acte III. Cela permet de conclure l'histoire.
+
+<<<
 
 == Appendice
 
@@ -458,6 +521,8 @@ En JdR, on peut vouloir mini-maximiser ses gains par rapport à ses stats.
 Dans 3 Actes, le player skill est fait de propositions de liens et de complications  intéressants.
 
 Ajoutons également que par rapport à d’autres jeux narrativistes comme 1001 Nuits, Mnemosyne et PrimeTime Adventure, il n'y a pas d'artifices pour justifier les narrations des joueurs (resp. courtisans pour 1001 Nuits, patients pour Mnemosyne ou acteurs/producteur pour PrimeTime Adventure).
+
+3 Actes est un jeu narratif ("story telling") et non de construction d'univers ("world building"). Il y aura donc beaucoup d'éléments du monde indéterminés mais cela n'empêche pas l'histoire d'avancer. Si vous vous sentez un peu perdu dans cet inconnu, rappelez vous que vous pouvez (et devez) créer des scènes qui vont exposer et donner vie au monde.
 
 
 === Faire varier les statistiques
@@ -525,7 +590,7 @@ _Différences entre les actes:_
 
 s| Résumé | Expositions | Péripéties | Résolutions
 
-s| Début | Le souffleur | A gauche du souffleur | A droite du souffleur
+s| Début | Le souffleur 2+^| A gauche du souffleur
 
 s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux à résoudre
 
@@ -546,12 +611,7 @@ Scènes de résolution:
 * Explication
 * Confrontation
 
-s| Répartition | Distribution des rôles | Protagoniste ou participant | Tout le monde peut dépenser ses PR
-
-
-s| Préséance | Sens horaire | Sens horaire pour la distribution et sens antihoraire pour les complications | Sens horaire
-
-s| Evolution 2+^| PP pour les personnages et PR pour le perdant d'un tirage | Plus de gain de PR et PP.
+s| Evolution 2+^| PP pour les personnages et PR pendant les tirages | Plus de gain de PR et PP.
 
 s| Tirage
 a| Rare mais possible en confrontation
@@ -572,7 +632,7 @@ s| Voler un élément 3+^| -2PR
 <<<
 == Notes de version
 
-Cette version est la version *bêta* du jeu du *5 juin 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
+Cette version est la version *bêta* du jeu du *24 juin 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
 
 Peu importe comment vous avez obtenu les règles, n’hésitez pas à nous envoyer tout commentaire ou question par courriel car vos avis et retours nous sont précieux: aleascript@gmail.com.
 
