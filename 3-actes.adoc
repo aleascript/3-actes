@@ -92,7 +92,7 @@ image::role.png[]
 
 ==== La réserve
 
-La réserve désigne la zone de la table où se trouve les personnages cités mais n'ayant pas encore été impliqués dans une scène.
+La réserve désigne la zone de la table où se trouvent les personnages cités mais n'ayant pas encore été impliqués dans une scène.
 
 En cas d'attribution d'un élément de réserve non joué à cause d'une complication ou autre, alors l'élément retourne en réserve.
 
@@ -104,11 +104,11 @@ On les note en faisant un signe plus (+) sur la fiche pliée en deux de ce perso
 
 Les 1/2 PP: si un personnage n'a été que cité dans la scène, on note sur sa fiche un simple trait vertical (|) ou on transforme un trait vertical en +. Ainsi à force d'être cité un personnage gagne de la présence. En effet, un autre trait transformera le 1er trait en +.
 
-Si l'on se rend compte que certains joueurs utilisent la citation à mauvais escient juste pour "gagner" des PP pour tel ou tel rôle et que cela ne colle pas à l'esprit de la table, on peut ajouter la contrainte suivante pour obtenir 1/2 PP si le rôle a été cité et qu'on ait aussi appris quelque chose de nouveau sur ce dernier.
+Si l'on se rend compte que certains joueurs utilisent la citation à mauvais escient juste pour "gagner" des PP pour tel ou tel rôle et que cela ne colle pas à l'esprit de la table, on peut ajouter la contrainte suivante pour obtenir 1/2 PP: le rôle doit avoir été cité mais il faut aussi qu'on ait appris quelque chose de nouveau sur ce dernier.
 
-Dans l'acte III, il n'y a plus d'évolution des points de présence et d'ailleurs ces derniers ne servent pas dans les tirages.
+Dans l'acte III, il n'y a plus d'évolution des points de présence car ces derniers ne servent pas dans les tirages.
 
-Les PP appartiennent à un personnage.
+Les PP appartiennent à un rôle.
 
 === Points de résolution (PR)
 
@@ -118,13 +118,13 @@ A l'acte III, on ne peut plus gagner de PR.
 
 Les PR permettent:
 
-* de voler un élément à un autre joueur (2 PR)
+* de voler un élément (décor ou rôle) à un autre joueur (2 PR)
 * de créer une interruption comme complication (acte II) (1 PR)
 * de rajouter une carte lors d'un tirage défavorable (sauf dans l'acte III) (1 PR)
 * de remplacer les points de présence dans l'acte III (1 carte supplémentaire par PR consommé)
 * de créer une nouvelle coulisse après le prélude (sauf dans l'acte III) (1 PR)
 * de créer un nouvel élément dans l'acte III (1 PR)
-* de sauver un rôle (Acte II) (1 PR)
+* de sauver un rôle (Acte II uniquement) (1 PR)
 
 Les PR appartiennent à un joueur.
 
