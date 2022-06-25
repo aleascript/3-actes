@@ -11,12 +11,14 @@ Version 0.1
 :toclevels: 2
 :toc-title: Table des matières
 
+image::licence.png[licence,100,role="right"]
+
 Jeu narratif en 3 Actes
 
 [verse, AleaScript, Auteur du jeu]
 _L'imagination est une ressource intemporelle, infinie, gratuite et partageable..._
 
-image::licence.png[]
+
 
 <<<
 
@@ -65,7 +67,7 @@ Les coulisses sont matérialisées par de simples fiches posées sur la table qu
 
 On dispose autour les personnages et les décors rattachés à la coulisse tant qu'ils n'ont pas été pris ou attribués à un joueur.
 
-image::coulisse.png[]
+image::coulisse.png[coulisse,315]
 
 ==== Décors
 
@@ -78,7 +80,7 @@ Si ce n'est pas le cas, il faut d'abord créer la coulisse pour 1 point de réso
 Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le NOM du décor en majuscules.
 Pour les distinguer des rôles, on peut plier la fiche par la diagonale ou utiliser des fiches de couleur différente.
 
-image::decor.png[]
+image::decor.png[decor,300]
 
 ==== Rôles
 
@@ -88,7 +90,7 @@ On peut créer autant de personnages qu'on veut tant qu'ils sont rattachés à u
 
 Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le ROLE en majuscules ainsi que le NOM du personnage. On garde un peu d'espace pour indiquer les points de présence (PP) par des traits ou des signes +. Cela sera développé plus loin.
 
-image::role.png[]
+image::role.png[role,375]
 
 ==== La réserve
 
@@ -136,7 +138,7 @@ On tourne dans le sens des aiguilles d'une montre.
 
 On distribue les éléments afin que chacun ait à peu près le même nombre d'éléments décors et d'éléments rôles. Comme le sens de rotation est le sens horaire (par la gauche), on commence par les joueurs de gauche et on complète les trous pour les joueurs suivants.
 
-__Exemple: on a 4 joueurs A,B,C et D. A a 2 rôles, B 1 rôle, C 2 rôles, D 0 rôle. Si A crée un nouveau rôle, il sera donné à D. __
+TIP: on a 4 joueurs A,B,C et D. A a 2 rôles, B 1 rôle, C 2 rôles, D 0 rôle. Si A crée un nouveau rôle, il sera donné à D.
 
 
 === Les scènes: protagoniste(s) & participant(s)
@@ -189,12 +191,14 @@ De la même façon, si on souhaite créer une nouvelle complication, on fait de 
 
 Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un fiasco. Quelque chose d'inattendu et de pas agréable advient. Le résultat est interprété par le 1er joueur à gauche du perdant non impliqué dans l'opposition. Le joueur peut également interpréter le résultat comme étant un exploit du point de vue de l'opposant.
 
-[.stripes-even,cols="5,20",options="header"]
+[.stripes-even,cols="5,10,10,10",options="header"]
 |===
-|Carte max|Resultat
-|2-10|Echec ou réussite (de complication ou partiel?) (interprété par le gagnant)
-|V,Q,K,As|Echec ou réussite (ferme) qui termine la scène (interprété par le gagnant)
-|Joker|Fiasco de l'opposant (ou exploit du gagnant) (interprété par un joueur non impliqué)
+|Carte max|Résultat|Interprétation|Impact scène
+s|2-10|Echec ou réussite|Par le gagnant a|
+* Surenchère (1 carte cachée)
+* Si fin de complication, la scène continue
+s|V,Q,K,As|Echec ou réussite ferme|Par le gagnant| Fin de la scène
+s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué| Fin de la scène
 |===
 
 Hormis à l'acte III, les tirages sont le moyen de gagner des points de résolution (PR):
@@ -216,21 +220,18 @@ Les tirages ne mesurent pas la compétence de tel ou tel personnage mais permett
 
 Les personnages de la réserve peuvent disparaitre à tout moment si on le justifie par la fiction.
 
-....
-Exemples: le vieux professeur a été retrouvé assassiné ce matin. Les élèves l'apprennent en arrivant au lycée.
-....
+TIP: le vieux professeur a été retrouvé assassiné ce matin. Les élèves l'apprennent en arrivant au lycée.
 
 Dans l'acte I, un personnage peut également mourir dans une confrontation.
 
 Dans l'acte II, n'importe quel personnage peut mourir sauf qu'il faut que le joueur conserve un personnage avec un nombre max de PP.
 
-....
-Exemples:
-
+[TIP]
+====
 Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP): Dr Jones, Cynthia et Paul peuvent disparaitre mais pas James.
 
 Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé mais James et Mister O ne peuvent pas mourir tous les deux._
-....
+====
 
 Et enfin dans l'acte III, plus aucun personnage n'est protégé et peut mourir à l'issue d'une confrontation dont l'objectif est de tuer le personnage.
 
@@ -268,7 +269,7 @@ Il est en charge:
 
 On tourne dans l'ordre des aiguilles d'une montre.
 
-Chaque joueur propose parmi les éléments suivants:
+Chaque joueur sélectionne une catégorie (genre, univers, thème, ton, pitch, restriction, précision) et entoure, élimine ou ajoute les éléments qu'il souhaite en justifiant son choix.
 
 * Un genre
 
@@ -313,9 +314,7 @@ Pas de magie, Pas de super pouvoirs, La technologie est bannie, Pas de mort-viva
 La magie est interdite, les animaux parlent, ...
 ....
 
-Un joueur peut également proposer plusieurs choix (c'est à dire plusieurs genres ou plusieurs univers etc...). C'est la discussion avec les autres joueurs qui permettra de choisir. En effet, chaque proposition est ensuite discutée collégialement.
-
-Si elle est validée, on la note sur une fiche et on passe au joueur suivant.
+Petit à petit les choix se réduisent et c'est la discussion avec les autres joueurs qui permettra de définir finalement le cadre. En effet, chaque proposition est ensuite discutée collégialement.
 
 Un joueur peut éventuellement poser un veto contre le choix des autres mais dans ce cas, il passe son tour et attendra que les autres aient joué pour faire une proposition.
 
@@ -323,8 +322,9 @@ On s'arrête quand plus aucun joueur n'a de propositions à faire sur le cadre d
 
 On n'est absolument pas obligé de faire une proposition pour chacun des items pour commencer.
 
-=== Choix des coulisses
+IMPORTANT: A ce stade on ne doit faire aucun présupposé sur l'histoire. Le choix du cadre n'est pas une création de background complet au sens classique. En effet, dans 3 Actes les éléments du background vont émerger pendant la partie au fil des scènes.
 
+=== Choix des coulisses
 
 On commence par le joueur à gauche du souffleur et on tourne dans le sens des aiguilles d'une montre. Lorsque c'est son tour, chaque joueur a le choix entre créer une nouvelle coulisse ou typer une coulisse existante. On s'arrête quand tous les joueurs ont joué.
 
@@ -334,9 +334,13 @@ Une coulisse est un élément de l'histoire qui servira de réservoir de décors
 
 Les coulisses sont avant tout une vue de l'esprit pour organiser la création d'éléments et il y a autant de possibilités d'antagonisme ou de support entre des personnages d'une même coulisse qu'entre des personnages de coulisses différentes.
 
+TIP:  Il est tout à fait possible aussi de créer des coulisses très génériques mais comme pour le cadre, l'idée n'est pas d'être exhaustif au niveau de l'univers mais plutôt de créer des réservoirs spécifiques pour cette histoire ou cet épisode.
+
 * Typer une coulisse
 
 On peut ajouter un ou deux traits particuliers à une coulisse existante.
+
+TIP: L'idée est ici d'ajouter un élément fictionnel marquant pour la coulisse qui soit très signifiant pour la fiction. Cela rejoint la préférence du spécifique par rapport au générique.
 
 === Création des décors et des rôles
 
@@ -375,7 +379,7 @@ Un rôle possède un qualificatif et éventuellement un nom.
 
 Un rôle peut également être un groupe ou être générique. Même si l'on préfère des personnages bien identifiés et bien typés plus intéressants pour la fiction, il arrive, en effet qu'on ait à créer tout un groupe. Le jeu l'autorise. La fiction décidera par la suite si le groupe fait émerger des personnages plus spécifiques.
 
-__Exemple: Commando Delta. Puis plus tard, Lt Gary chef du commando. __
+TIP: Commando Delta. Puis plus tard, Lt Gary chef du commando.
 
 Le joueur possédant un rôle est en charge de son interprétation et sera en charge de faire évoluer les objectifs de ce rôle. Il est également en charge de lui donner un nom si cela n'a pas été fait dans le prélude.
 
@@ -384,6 +388,10 @@ Les joueurs jouent donc les rôles qu'ils possèdent et ceci même quand un autr
 <<<
 
 == Acte I
+
+Le souffleur fait un récapitulatif des choix des joueurs: cadre et coulisses.
+
+TIP: Le souffleur récapitule ainsi les éléments pour tous les joueurs et indique la distinction entre ce qui est figé comme cadre fictionnel et devra être joué tel quel de ce qui ne l'est pas et devra être résolu.
 
 Le but de l'acte I et de créer des liens intéressants tout en distribuant les personnages et les décors de la réserve aux joueurs.
 
@@ -412,8 +420,7 @@ Cette phase permet ainsi de s'assurer que tous les joueurs sont bien en phase.
 
 On distribue également autant de Points de résolution (PR) à chaque joueur que le plus petit nombre de rôles possédés par les joueurs.
 
-__Exemple: A 3 rôles, B 2 rôles, C 2 rôles -> on distribue 2 PR à chaque joueur. __
-
+TIP: A 3 rôles, B 2 rôles, C 2 rôles -> on distribue 2 PR à chaque joueur.
 
 == Acte II
 
@@ -538,7 +545,7 @@ Pour augmenter ou diminuer la durée des scènes, on peut jouer sur le côté fi
 
 Quand on joue en solo, on perd l'émulation avec d'autres joueurs. Pour autant, on peut utiliser les règles de 3 Actes pour mener à bien une histoire. 3 Actes sert alors autant de guide de création d'histoire structurée que de petit moteur aléatoire pour générer quelques bifurcations intéressantes. Il n'y a pas de système d'Oracle: vous vous laissez guider par votre instinct et vous voyez où cela vous mène.
 
-Spécifités du mode solo:
+Spécificités du mode solo:
 
 * On choisit le cadre de la pièce comme on l'entend et on choisit autant de coulisses qu'on veut.
 * On ne gagne pas de PR à la fin du prélude et on gagne 1 PR par tirage dans l'acte II quelque soit le résultat.
@@ -569,17 +576,19 @@ _Propositions de cadre_:
 |  Thème?
 |  Ton?
 |  Pitch?
-|  Précision?
-|  Restriction?
+|  Précisions?
+|  Restrictions?
 |===
 
 __Table des tirages:__
-[.stripes-even,cols="5,20",options="header"]
+[.stripes-even,cols="5,10,10,10",options="header"]
 |===
-|Carte max|Resultat
-|2-10|Echec ou réussite (de complication ou partiel?) (interprété par le gagnant)
-|V,Q,K,As|Echec ou réussite (ferme) qui termine la scène (interprété par le gagnant)
-|Joker|Fiasco de l'opposant (ou exploit du gagnant) (interprété par un joueur non impliqué)
+|Carte max|Résultat|Interprétation|Impact scène
+s|2-10|Echec ou réussite|Par le gagnant a|
+* Surenchère (1 carte cachée)
+* Si fin de complication, la scène continue
+s|V,Q,K,As|Echec ou réussite ferme|Par le gagnant| Fin de la scène
+s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué| Fin de la scène
 |===
 
 <<<
@@ -597,17 +606,18 @@ s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux 
 s| But | Créer des liens et distribuer les rôles | Définir des objectifs et créer des complications | Résoudre par l'explication ou la confrontation
 
 s| Scènes
-a|....
-Scènes de liens:
+a|Scènes de liens:
+
 * Direct
 * Indirect
-a|....
-Scènes d'interaction ou de complication:
+
+a|Scènes d'interaction ou de complication:
+
 * interruption (-1 PR)
 *  ralentissement (carte cachée)
 * ajout (carte retournée)
-a|....
-Scènes de résolution:
+a|Scènes de résolution:
+
 * Explication
 * Confrontation
 
@@ -615,7 +625,7 @@ s| Evolution 2+^| PP pour les personnages et PR pendant les tirages | Plus de ga
 
 s| Tirage
 a| Rare mais possible en confrontation
-a|....
+a|
 * On utilise les PP
 * Si résultat défavorable, 1 carte pour 1 PR
 a| On utilise les PR

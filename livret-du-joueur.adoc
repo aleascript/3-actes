@@ -81,17 +81,18 @@ s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux 
 s| But | Créer des liens et distribuer les rôles | Définir des objectifs et créer des complications | Résoudre par l'explication ou la confrontation
 
 s| Scènes
-a|....
-Scènes de liens:
+a|Scènes de liens:
+
 * Direct
 * Indirect
-a|....
-Scènes d'interaction ou de complication:
+
+a|Scènes d'interaction ou de complication:
+
 * interruption (-1 PR)
 *  ralentissement (carte cachée)
 * ajout (carte retournée)
-a|....
-Scènes de résolution:
+a|Scènes de résolution:
+
 * Explication
 * Confrontation
 
@@ -99,7 +100,7 @@ s| Evolution 2+^| PP pour les personnages et PR pendant les tirages | Plus de ga
 
 s| Tirage
 a| Rare mais possible en confrontation
-a|....
+a|
 * On utilise les PP
 * Si résultat défavorable, 1 carte pour 1 PR
 a| On utilise les PR
