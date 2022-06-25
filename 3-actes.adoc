@@ -238,7 +238,7 @@ Et enfin dans l'acte III, plus aucun personnage n'est protégé et peut mourir �
 
 == Déroulement d'une partie
 
-* *Prélude* : on choisit le thème et le cadre. On crée les coulisses
+* *Prélude* : on choisit le thème et le cadre. On crée les coulisses.
 * *Acte I*: on s'approprie les éléments et  crée les liens entre eux.
 * *Acte II*: on fait évoluer les liens en cherchant à atteindre des objectifs et on crée des complications.
 * *Acte III*: on joue les résolutions par l'explication et/ou par la confrontation.
@@ -541,8 +541,8 @@ Quand on joue en solo, on perd l'émulation avec d'autres joueurs. Pour autant, 
 Spécifités du mode solo:
 
 * On choisit le cadre de la pièce comme on l'entend et on choisit autant de coulisses qu'on veut.
-* On cumule forcément tous les PR.
-* On les utilise comme on veut pour les résolutions de l'acte III pour donner des poids à telle ou telle option.
+* On ne gagne pas de PR à la fin du prélude et on gagne 1 PR par tirage dans l'acte II quelque soit le résultat.
+* On peut ensuite utiliser les PR comme on veut pour les résolutions de l'acte III pour donner des poids à telle ou telle résolution.
 
 <<<
 == Memento
@@ -554,7 +554,7 @@ _Plan d'une partie:_
     - Choix de la durée
     - Choix du cadre
     - Choix des coulisses: nouvelle coulisse ou 1-2 traits pour une coulisse existante
-    - Création des décors et des rôles (5')
+    - Création des décors et des rôles (9' moins nombre de joueurs)
 * Acte I
 * Acte II
 * Acte III
@@ -584,7 +584,7 @@ __Table des tirages:__
 
 <<<
 _Différences entre les actes:_
-[.stripes-even,cols="6,10,12,10",options="header""]
+[.stripes-even,cols="6,10,12,10",]
 |===
 | Catégorie | Acte I | Acte II | Acte III
 
@@ -632,7 +632,7 @@ s| Voler un élément 3+^| -2PR
 <<<
 == Notes de version
 
-Cette version est la version *bêta* du jeu du *24 juin 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
+Cette version est la version *bêta* du jeu du *25 juin 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
 
 Peu importe comment vous avez obtenu les règles, n’hésitez pas à nous envoyer tout commentaire ou question par courriel car vos avis et retours nous sont précieux: aleascript@gmail.com.
 

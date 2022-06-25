@@ -1,0 +1,113 @@
+= Livret du joueur
+aleascript@gmail.com
+Version 0.1
+//:doctype: book
+//:sectnums:
+:pdf-theme: theme.yml
+:description: Jeu narratif en 3 actes
+:keywords: JdR, Solo
+:imagesdir: ./resources
+
+## Le cadre
+
+Genre / Univers / Thème / Ton / Pitch / Restrictions / Précisions ...
+
+[%hardbreaks]
+__ __
+__ __
+__ __
+__ __
+__ __
+__ __
+
+
+## Mes rôles et leurs liens
+
+[.stripes-even, options="header"]
+|===
+|  Rôle | Liens
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+|
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+|
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+|
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+|
+a|[%hardbreaks]
+__ __
+__ __
+__ __
+|
+|===
+
+<<<
+== Memento
+
+[.stripes-even,cols="6,10,12,10",]
+|===
+| Catégorie | Acte I | Acte II | Acte III
+
+s| Résumé | Expositions | Péripéties | Résolutions
+
+s| Début | Le souffleur 2+^| A gauche du souffleur
+
+s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux à résoudre
+
+s| But | Créer des liens et distribuer les rôles | Définir des objectifs et créer des complications | Résoudre par l'explication ou la confrontation
+
+s| Scènes
+a|....
+Scènes de liens:
+* Direct
+* Indirect
+a|....
+Scènes d'interaction ou de complication:
+* interruption (-1 PR)
+*  ralentissement (carte cachée)
+* ajout (carte retournée)
+a|....
+Scènes de résolution:
+* Explication
+* Confrontation
+
+s| Evolution 2+^| PP pour les personnages et PR pendant les tirages | Plus de gain de PR et PP.
+
+s| Tirage
+a| Rare mais possible en confrontation
+a|....
+* On utilise les PP
+* Si résultat défavorable, 1 carte pour 1 PR
+a| On utilise les PR
+
+s| Létalité | Réserve ou confrontation | Tous sauf max PP du joueur (-1 PR pour sauver un perso) | Tous les personnages
+
+s| Création d'élément 2+^| -1 PR pour une nouvelle coulisse | -1 PR pour un nouveau perso
+
+s| Voler un élément 3+^| -2PR
+|===
+
