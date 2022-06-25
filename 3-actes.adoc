@@ -402,7 +402,7 @@ Une scène de lien doit idéalement faire émerger quelque chose d'intéressant 
 Concrètement, on peut créer un lien:
 
 * soit par une rencontre directe
-* soit de manière indirecte : en agissant de sorte que tel personnage soit impacté. Auquel cas la scène est divisée en deux: une 1ere partie montrant l'action du 1er personnage et une 2eme partie montrant l'impact et la réaction du 2eme personnage.
+* soit de manière indirecte : en agissant de sorte que tel personnage soit impacté. Auquel cas la scène est divisée en deux: une 1ère partie montrant l'action du 1er personnage et une 2ème partie montrant l'impact et la réaction du 2ème personnage.
 
 Chaque personnage impliqué dans une scène de lien gagne à la fin de la scène 1 PP.
 
@@ -410,7 +410,7 @@ Chaque personnage cité dans une scène de lien gagne 1/2 PP.
 
 Le joueur devant créer un lien est ensuite le 1er joueur à gauche n'ayant pas été impliqué dans la scène. Il doit choisir un rôle sans présence mais peut impliquer dans sa scène de lien un autre personnage ayant déjà une présence.
 
-On finit l'acte I quand tous les personnages ont au moins 1 ou 1/2 PP ou si l'on est 1h avant la fin prévue de l'acte II. Ce dernier cas est utile quand les joueurs ont été particulièrement prolixes et ont créé beaucoup d'éléments pendant le prélude. Les éléments non liés restent en réserve et pourront intervenir dans l'acte II ou III.
+On finit l'acte I quand tous les personnages ont au moins 1 ou 1/2 PP ou si tous les joueurs ont chacun 3 rôles (ce dernier cas étant pour les joueurs particulièrement prolixes pendant la phase de création des rôles dans le prélude). Les éléments non liés restent alors en réserve et pourront intervenir dans l'acte II ou III.
 
 == 1er entracte
 
