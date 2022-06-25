@@ -195,10 +195,11 @@ Si on sort un Joker (rouge ou noir), le personnage ayant tiré le joker subit un
 |===
 |Carte max|Résultat|Interprétation|Impact scène
 s|2-10|Echec ou réussite|Par le gagnant a|
-* Surenchère (1 carte cachée)
-* Si fin de complication, la scène continue
-s|V,Q,K,As|Echec ou réussite ferme|Par le gagnant| Fin de la scène
-s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué| Fin de la scène
+* Surenchère possible (1 carte cachée)
+* Si pas de surenchère et fin de complication, la scène continue
+* Sinon fin de scène
+s|V,Q,K,As|Echec ou réussite ferme|Par le gagnant| Fin de scène
+s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué| Fin de scène
 |===
 
 Hormis à l'acte III, les tirages sont le moyen de gagner des points de résolution (PR):
@@ -585,10 +586,11 @@ __Table des tirages:__
 |===
 |Carte max|Résultat|Interprétation|Impact scène
 s|2-10|Echec ou réussite|Par le gagnant a|
-* Surenchère (1 carte cachée)
-* Si fin de complication, la scène continue
-s|V,Q,K,As|Echec ou réussite ferme|Par le gagnant| Fin de la scène
-s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué| Fin de la scène
+* Surenchère possible (1 carte cachée)
+* Si pas de surenchère et fin de complication, la scène continue
+* Sinon fin de scène
+s|V,Q,K,As|Echec ou réussite ferme|Par le gagnant| Fin de scène
+s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué| Fin de scène
 |===
 
 <<<
