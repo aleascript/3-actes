@@ -4,8 +4,8 @@ Version 0.1
 //:doctype: book
 //:sectnums:
 :pdf-theme: theme.yml
-:description: Jeu narratif en 3 actes
-:keywords: JdR, Solo
+:description: Livret du joueur de 3 Actes
+:keywords: Impression en livret (4 pages)
 :imagesdir: ./resources
 
 ## Le cadre
