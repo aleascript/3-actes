@@ -68,6 +68,7 @@ __ __
 <<<
 == Memento
 
+_Les différences entre les actes_
 [.stripes-even,cols="6,10,12,10",]
 |===
 | Catégorie | Acte I | Acte II | Acte III
@@ -112,3 +113,31 @@ s| Création d'élément 2+^| -1 PR pour une nouvelle coulisse | -1 PR pour un n
 s| Voler un élément 3+^| -2PR
 |===
 
+<<<
+
+_Résultat des tirages_
+[.stripes-even,cols="5,10,10,10",options="header"]
+|===
+|Carte max|Résultat|Interprétation|Impact scène
+s|2-10|Echec ou réussite|Par le gagnant a|
+* Surenchère possible (1 carte cachée)
+* Si pas de surenchère et fin de complication, la scène continue
+* Sinon fin de scène
+s|V,Q,K,As|Echec ou réussite ferme|Par le gagnant| Fin de scène
+s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué| Fin de scène
+|===
+
+_Principes_
+
+* Pensez à décrire vos rôles, à leur donner vie, à les incarner, à penser comme eux, à ressentir comme eux: que voit on ? que ressentent-ils ? que font-ils ? que disent-ils ? que pensent-ils ?
+* Pensez en particulier à des petits détails qui font la différence.
+* Jouez vos rôles et non ceux des autres.
+* Ne vous censurez pas, ne jugez pas les autres: en effet, les rôles ne reflètent pas ce que pense le joueur qui incarne le rôle.
+* Les autres joueurs ignorent ce que vous avez en tête: vous devez donc l'exposer à travers les scènes.
+* Ainsi ne soyez pas gêné de ne pas tout connaitre d'un de vos rôles. N'ayez donc pas peur des blancs et acceptez que le rôle puisse fonctionner sans tout connaitre de son background.
+* N'hésitez pas à questionner les joueurs sur tel ou tel point de la fiction qui attire votre attention car il vous semble intéressant, obscur ou peu plausible.
+* Il est normal qu'il y ait beaucoup d'irrésolu en cours de jeu: c'est le but du jeu d'aboutir aux résolutions lors de l'acte III.
+
+<<<
+
+## Notes
