@@ -1,6 +1,11 @@
+# https://github.com/asciidoctor/asciidoctor-pdf/blob/main/data/themes/default-theme.yml
 extends: default
 base:
   font-family: Helvetica
   font_size: 12
   line_height_length: 10
   font-color: #000000
+table:
+  border_color: #000000
+admonition:
+  column_rule_color: #000000

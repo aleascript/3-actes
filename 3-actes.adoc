@@ -18,8 +18,6 @@ Jeu narratif en 3 Actes
 [verse, AleaScript, Auteur du jeu]
 _L'imagination est une ressource intemporelle, infinie, gratuite et partageable..._
 
-
-
 <<<
 
 toc::[]
@@ -138,8 +136,9 @@ On tourne dans le sens des aiguilles d'une montre.
 
 On distribue les éléments afin que chacun ait à peu près le même nombre d'éléments décors et d'éléments rôles. Comme le sens de rotation est le sens horaire (par la gauche), on commence par les joueurs de gauche et on complète les trous pour les joueurs suivants.
 
-TIP: on a 4 joueurs A,B,C et D. A a 2 rôles, B 1 rôle, C 2 rôles, D 0 rôle. Si A crée un nouveau rôle, il sera donné à D.
-
+====
+_Exemple: on a 4 joueurs A,B,C et D. A a 2 rôles, B 1 rôle, C 2 rôles, D 0 rôle. Si A crée un nouveau rôle, il sera donné à D._
+====
 
 === Les scènes: protagoniste(s) & participant(s)
 
@@ -221,17 +220,20 @@ Les tirages ne mesurent pas la compétence de tel ou tel personnage mais permett
 
 Les personnages de la réserve peuvent disparaitre à tout moment si on le justifie par la fiction.
 
-TIP: le vieux professeur a été retrouvé assassiné ce matin. Les élèves l'apprennent en arrivant au lycée.
+====
+_Exemple: le vieux professeur a été retrouvé assassiné ce matin. Les élèves l'apprennent en arrivant au lycée._
+====
 
 Dans l'acte I, un personnage peut également mourir dans une confrontation.
 
 Dans l'acte II, n'importe quel personnage peut mourir sauf qu'il faut que le joueur conserve un personnage avec un nombre max de PP.
 
-[TIP]
 ====
-Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP): Dr Jones, Cynthia et Paul peuvent disparaitre mais pas James.
+_Exemples:_
 
-Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé mais James et Mister O ne peuvent pas mourir tous les deux._
+_Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP): Dr Jones, Cynthia et Paul peuvent disparaitre mais pas James._
+
+_Dr Jones (1 PP), Cynthia (2PP), Paul (2PP), James (3PP), Mister O (3PP): aucun personnage n'est protégé mais James et Mister O ne peuvent pas mourir tous les deux._
 ====
 
 Et enfin dans l'acte III, plus aucun personnage n'est protégé et peut mourir à l'issue d'une confrontation dont l'objectif est de tuer le personnage.
@@ -323,7 +325,7 @@ On s'arrête quand plus aucun joueur n'a de propositions à faire sur le cadre d
 
 On n'est absolument pas obligé de faire une proposition pour chacun des items pour commencer.
 
-IMPORTANT: A ce stade on ne doit faire aucun présupposé sur l'histoire. Le choix du cadre n'est pas une création de background complet au sens classique. En effet, dans 3 Actes les éléments du background vont émerger pendant la partie au fil des scènes.
+IMPORTANT: _A ce stade on ne doit faire aucun présupposé sur l'histoire. Le choix du cadre n'est pas une création de background complet au sens classique. En effet, dans 3 Actes les éléments du background vont émerger pendant la partie au fil des scènes._
 
 === Choix des coulisses
 
@@ -335,13 +337,13 @@ Une coulisse est un élément de l'histoire qui servira de réservoir de décors
 
 Les coulisses sont avant tout une vue de l'esprit pour organiser la création d'éléments et il y a autant de possibilités d'antagonisme ou de support entre des personnages d'une même coulisse qu'entre des personnages de coulisses différentes.
 
-TIP:  Il est tout à fait possible aussi de créer des coulisses très génériques mais comme pour le cadre, l'idée n'est pas d'être exhaustif au niveau de l'univers mais plutôt de créer des réservoirs spécifiques pour cette histoire ou cet épisode.
+TIP:  _Il est tout à fait possible aussi de créer des coulisses très génériques mais comme pour le cadre, l'idée n'est pas d'être exhaustif au niveau de l'univers mais plutôt de créer des réservoirs spécifiques pour cette histoire ou cet épisode._
 
 * Typer une coulisse
 
 On peut ajouter un ou deux traits particuliers à une coulisse existante.
 
-TIP: L'idée est ici d'ajouter un élément fictionnel marquant pour la coulisse qui soit très signifiant pour la fiction. Cela rejoint la préférence du spécifique par rapport au générique.
+TIP: _L'idée est ici d'ajouter un élément fictionnel marquant pour la coulisse qui soit très signifiant pour la fiction. Cela rejoint la préférence du spécifique par rapport au générique._
 
 === Création des décors et des rôles
 
@@ -380,7 +382,9 @@ Un rôle possède un qualificatif et éventuellement un nom.
 
 Un rôle peut également être un groupe ou être générique. Même si l'on préfère des personnages bien identifiés et bien typés plus intéressants pour la fiction, il arrive, en effet qu'on ait à créer tout un groupe. Le jeu l'autorise. La fiction décidera par la suite si le groupe fait émerger des personnages plus spécifiques.
 
-TIP: Commando Delta. Puis plus tard, Lt Gary chef du commando.
+====
+_Exemple: Commando Delta. Puis plus tard, Lt Gary chef du commando._
+====
 
 Le joueur possédant un rôle est en charge de son interprétation et sera en charge de faire évoluer les objectifs de ce rôle. Il est également en charge de lui donner un nom si cela n'a pas été fait dans le prélude.
 
@@ -392,7 +396,7 @@ Les joueurs jouent donc les rôles qu'ils possèdent et ceci même quand un autr
 
 Le souffleur fait un récapitulatif des choix des joueurs: cadre et coulisses.
 
-TIP: Le souffleur récapitule ainsi les éléments pour tous les joueurs et indique la distinction entre ce qui est figé comme cadre fictionnel et devra être joué tel quel de ce qui ne l'est pas et devra être résolu.
+TIP: _Le souffleur récapitule ainsi les éléments pour tous les joueurs et indique la distinction entre ce qui est figé comme cadre fictionnel et devra être joué tel quel de ce qui ne l'est pas et devra être résolu._
 
 Le but de l'acte I et de créer des liens intéressants tout en distribuant les personnages et les décors de la réserve aux joueurs.
 
@@ -421,7 +425,9 @@ Cette phase permet ainsi de s'assurer que tous les joueurs sont bien en phase.
 
 On distribue également autant de Points de résolution (PR) à chaque joueur que le plus petit nombre de rôles possédés par les joueurs.
 
-TIP: A 3 rôles, B 2 rôles, C 2 rôles -> on distribue 2 PR à chaque joueur.
+====
+_Exemple: Joueur A a 3 rôles, Joueur B a 2 rôles et joueur C a 2 rôles -> on distribue donc 2 PR à chaque joueur._
+====
 
 == Acte II
 
