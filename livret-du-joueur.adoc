@@ -10,7 +10,7 @@ Version 0.1
 
 ## Le cadre
 
-Genre / Univers / Thème / Ton / Pitch / Restrictions / Précisions ...
+_Genre / Univers / Thème / Ton / Pitch / Restrictions / Précisions..._
 
 [%hardbreaks]
 __ __
@@ -23,47 +23,33 @@ __ __
 
 ## Mes rôles et leurs liens
 
-[.stripes-even, options="header"]
-|===
-|  Rôles | Liens
-a|[%hardbreaks]
+_Rôles / Liens / Objectifs / Enjeux..._
+
+[%hardbreaks]
 __ __
 __ __
 __ __
-a|[%hardbreaks]
 __ __
 __ __
 __ __
-|
-a|[%hardbreaks]
 __ __
 __ __
 __ __
-a|[%hardbreaks]
 __ __
 __ __
 __ __
-a|[%hardbreaks]
 __ __
 __ __
 __ __
-|
-a|[%hardbreaks]
 __ __
 __ __
 __ __
-|
-a|[%hardbreaks]
 __ __
 __ __
-__ __
-|
-a|[%hardbreaks]
-__ __
-__ __
-__ __
-|
-|===
+
+
+## Mes décors
+
 
 <<<
 == Memento
