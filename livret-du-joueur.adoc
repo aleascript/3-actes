@@ -21,9 +21,9 @@ __ __
 __ __
 
 
-## Mes rôles et leurs liens
+## Mes rôles et leurs objectifs
 
-_Rôles / Liens / Objectifs / Enjeux..._
+_Rôles / Liens / Objectifs / Dilemmes / Enjeux..._
 
 [%hardbreaks]
 __ __
@@ -63,9 +63,16 @@ s| Résumé | Expositions | Péripéties | Résolutions
 
 s| Début | Le souffleur 2+^| A gauche du souffleur
 
-s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux à résoudre
+s| Fin | Plus de persos sans PP | Proposée par le souffleur | Plus d'enjeux à résoudre
 
-s| But | Créer des liens et distribuer les rôles | Définir des objectifs et créer des complications | Résoudre par l'explication ou la confrontation
+s| But
+a|* Distribuer les rôles
+* Créer des liens entre les rôles
+* Faire émerger des objectifs ou des dilemmes pour chaque rôle
+a| * Créer des scènes d'interaction
+* Créer des scènes d'objectif
+a| * Créer des scènes d'explication
+* Créer des scènes de confrontation
 
 s| Scènes
 a|Scènes de liens:
@@ -73,32 +80,31 @@ a|Scènes de liens:
 * Direct
 * Indirect
 
-a|Scènes d'interaction ou de complication:
+a|Complication possible:
 
-* interruption (-1 PR)
+* interruption (-2 PR)
 *  ralentissement (carte cachée)
 * ajout (carte retournée)
 a|Scènes de résolution:
 
 * Explication
 * Confrontation
+* Mix possible
 
 s| Evolution 2+^| PP pour les personnages et PR pendant les tirages | Plus de gain de PR et PP.
 
 s| Tirage
 a| Rare mais possible en confrontation
 a|
-* On utilise les PP
-* Si résultat défavorable, 1 carte pour 1 PR
-a| On utilise les PR
+* Si résultat défavorable, surenchère via PP puis PR (1 carte par PP, PR)
+a| Surenchère uniquement par PR
 
-s| Létalité | Réserve ou confrontation | Tous sauf max PP du joueur (-1 PR pour sauver un perso) | Tous les personnages
+s| Létalité | Réserve ou confrontation | Tous sauf max PP du joueur (-2 PR pour sauver un perso) | Tous les personnages
 
-s| Création d'élément 2+^| -1 PR pour une nouvelle coulisse | -1 PR pour un nouveau perso
+s| Création d'élément 2+^| -2 PR pour une nouvelle coulisse | -2 PR pour un nouveau perso
 
 s| Voler un élément 3+^| -2PR
 |===
-
 <<<
 
 _Résultat des tirages_
@@ -116,14 +122,19 @@ s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué
 _Principes_
 
 * Pensez à décrire vos rôles, à leur donner vie, à les incarner, à penser comme eux, à ressentir comme eux: que voit on ? que ressentent-ils ? que font-ils ? que disent-ils ? que pensent-ils ?
+* Vous n'avez pas besoin d'être un acteur né: on peut être dans l'interprétation mais c'est l'intention qui compte surtout.
 * Pensez en particulier à des petits détails qui font la différence.
 * Jouez vos rôles et non ceux des autres.
+* Tendez et saisissez des perches même si vous n'êtes pas impliqués dans la scène.
 * Ne vous censurez pas, ne jugez pas les autres: en effet, les rôles ne reflètent pas ce que pense le joueur qui incarne le rôle.
 * Les autres joueurs ignorent ce que vous avez en tête: vous devez donc l'exposer à travers les scènes.
 * Ainsi ne soyez pas gêné de ne pas tout connaitre d'un de vos rôles. N'ayez donc pas peur des blancs et acceptez que le rôle puisse fonctionner sans tout connaitre de son background.
 * N'hésitez pas à questionner les joueurs sur tel ou tel point de la fiction qui attire votre attention car il vous semble intéressant, obscur ou peu plausible.
+* Si vous pataugez dans une scène, n'hésitez pas à demander de l'aide aux autres joueurs qui pourront vous proposer quelque chose d'intéressant dont vous pourriez vous saisir.
+* Les scènes de l'acte II peuvent être uniquement des scènes d'interaction et n'aboutir à aucun tirage.
 * Il est normal qu'il y ait beaucoup d'irrésolu en cours de jeu: c'est le but du jeu d'aboutir aux résolutions lors de l'acte III.
 * Créez des complications à l'acte II pour obtenir des PR et ceci même si vos rôles ne sont pas concernés a priori par l'objectif du protagoniste. Pensez à ce moment là: "What could go wrong ?" pour le protagoniste et faites le advenir.
+
 
 <<<
 

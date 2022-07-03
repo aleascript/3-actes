@@ -88,6 +88,8 @@ On peut créer autant de personnages qu'on veut tant qu'ils sont rattachés à u
 
 Un décor est matérialisé par une fiche pliée en deux sur lequel on écrit le ROLE en majuscules ainsi que le NOM du personnage. On garde un peu d'espace pour indiquer les points de présence (PP) par des traits ou des signes +. Cela sera développé plus loin.
 
+Les rôles seront d'autant plus intéressant à jouer qu'ils auront des objectifs bien précis dans l'histoire ou des dilemmes à résoudre. Servez-vous du livret du joueur pour les noter ou indiquez les au dos de la fiche pliée en deux pour vous aider à incarner le rôle.
+
 image::role.png[role,375]
 
 ==== La réserve
@@ -118,13 +120,14 @@ A l'acte III, on ne peut plus gagner de PR.
 
 Les PR permettent:
 
-* de voler un élément (décor ou rôle) à un autre joueur (2 PR)
-* de créer une interruption comme complication (acte II) (1 PR)
+
 * de rajouter une carte lors d'un tirage défavorable (sauf dans l'acte III) (1 PR)
 * de remplacer les points de présence dans l'acte III (1 carte supplémentaire par PR consommé)
-* de créer une nouvelle coulisse après le prélude (sauf dans l'acte III) (1 PR)
-* de créer un nouvel élément dans l'acte III (1 PR)
-* de sauver un rôle (Acte II uniquement) (1 PR)
+* de créer une interruption comme complication (acte II) (2 PR)
+* de créer une nouvelle coulisse après le prélude (sauf dans l'acte III) (2 PR)
+* de créer un nouvel élément dans l'acte III (2 PR)
+* de voler un élément (décor ou rôle) à un autre joueur (2 PR)
+* de sauver un rôle (Acte II uniquement) (2 PR)
 
 Les PR appartiennent à un joueur.
 
@@ -165,13 +168,15 @@ Le but d'un tirage est donc:
 
 En début de scène, on remélange les cartes qui ne seront plus remélangées ensuite pendant toute la durée de la scène.
 
-Pour une scène donnée, on utilisera le même paquet sans le mélanger puis on distribuera les cartes faces cachées en commençant par le joueur ayant créé la scène et en continuant dans le sens des aiguilles d'une montre avec les autres joueurs impliqués dans le tirage. Si un joueur a plusieurs éléments impliqués, chaque élément reçoit ses cartes par ordre alphabétique.
+Pour une scène donnée, on utilise le même paquet sans le mélanger.
 
-Le joueur décide pour l’élément concerné combien de cartes il veut. Par défaut c’est 1 carte mais on peut aller jusqu’à un nombre de cartes égal aux points de présence (PP) de l’élément.
+Par défaut les personnages impliqués dans l'opposition reçoivent chacun 1 carte.
 
-Une fois les cartes distribuées, on retourne les cartes. Le gagnant est celui qui a la carte la plus élevée.
+On retourne les cartes et celui qui a la plus grande carte remporte l'opposition. Les cartes sont classées du 2 à l’As. Les figures sont les Valets, les Reines, les Rois et les As.
 
-Les cartes sont classées du 2 à l’As. Les figures sont les Valets, les Reines, les Rois et les As.
+A ce stade on n'interprète pas le résultat car les joueurs peuvent surenchérir avec une nouvelle carte (1 carte par PP possible dans l'acte I et II ou 1 carte par PR dépensé dans tous les actes). Par contre, l'opposition s'arrête quand un joker est tiré.
+
+Quand toutes les surenchères ont été jouées soit parce que les joueurs acceptent le résultat, soit parce qu'ils n'ont plus de PP ou de PR ou ne veulent plus en utiliser, alors on interprète le résultat.
 
 En cas d’égalité, on regarde les cartes en dessous.
 
@@ -203,9 +208,8 @@ s|Joker|Fiasco de l'opposant (ou exploit du gagnant)|Par un joueur non impliqué
 
 Hormis à l'acte III, les tirages sont le moyen de gagner des points de résolution (PR):
 
-* Le perdant d'un tirage gagne 2 PR (en cas d'échec) voire même 3 PR (en cas de fiasco).
+* Si le perdant est un figurant, le perdant gagne 1 PR sinon il gagne 2 PR (en cas d'échec) voire même 3 PR (en cas de fiasco).
 * Le gagnant d'un tirage gagne 1 PR
-
 
 ==== Qui interprète le résultat ?
 
@@ -252,12 +256,6 @@ Et enfin dans l'acte III, plus aucun personnage n'est protégé et peut mourir �
 
 Le prélude permet de créer les éléments de l'histoire sans les détailler encore.
 
-=== Choix de la durée
-
-On se donne une heure de fin pour terminer l'acte II.
-
-Prévoir 30'-45' avant la fin effective de la partie.
-
 === Choix du souffleur
 
 On choisit généralement le joueur qui connaît le mieux les règles.
@@ -267,6 +265,7 @@ Il est en charge:
 * D'exposer les règles
 * De faire les résumés lors des entractes
 * D'aider les joueurs à trouver des scènes ou des complications mais en leur posant uniquement des questions.
+* Il propose également les transitions d'actes. Si tout le monde est d'accord, on passe tout simplement à l'acte suivant.
 
 === Choix du cadre
 
@@ -349,15 +348,17 @@ TIP: _L'idée est ici d'ajouter un élément fictionnel marquant pour la couliss
 
 Le tour se joue en parallèle et est chronométré. Il dure 9 minutes moins le nombre de joueurs.
 
-[.stripes-even,cols="5,6",options="header""]
+En fonction du nombre de joueurs, chaque joueur aura à créer un maximum de rôles.
+
+[.stripes-even,cols="5,5,5",options="header""]
 |===
-| Nombre de joueurs | Durée |
- 1 | 8' |
- 2 | 7' |
- 3 | 6' |
- 4 | 5' |
- 5 | 4' |
- 6 | 3' |
+| Nombre de joueurs | Durée | Nombre de rôles à créer
+| 1 | 8' | 8-10
+| 2 | 7' | 5-6
+| 3 | 6' | 3-4
+| 4 | 5' | 3
+| 5 | 4' | 2
+| 6 | 3' | 2
 |===
 
 Chaque joueur peut créer des décors ou des personnages en les rattachant à une des coulisses.
@@ -390,6 +391,8 @@ Le joueur possédant un rôle est en charge de son interprétation et sera en ch
 
 Les joueurs jouent donc les rôles qu'ils possèdent et ceci même quand un autre décide du résultat d'un tirage. En effet, le résultat est une chose, jouer le résultat en est une autre qui n'appartient qu'au joueur possédant le rôle.
 
+A la création pendant le prélude, le rôle n'a pas encore d'objectif. Ce dernier ne sera défini que dans l'acte I voire dans l'acte II.
+
 <<<
 
 == Acte I
@@ -398,13 +401,21 @@ Le souffleur fait un récapitulatif des choix des joueurs: cadre et coulisses.
 
 TIP: _Le souffleur récapitule ainsi les éléments pour tous les joueurs et indique la distinction entre ce qui est figé comme cadre fictionnel et devra être joué tel quel de ce qui ne l'est pas et devra être résolu._
 
-Le but de l'acte I et de créer des liens intéressants tout en distribuant les personnages et les décors de la réserve aux joueurs.
+Buts de l'acte I:
 
-Quand on crée un lien, on choisit un rôle et on attribue les autres aux autres joueurs en commençant par le joueur à gauche et en continuant. Le joueur à gauche choisit l'élément qu'il prend et passe le reste à son voisin jusqu'à ce que tous les éléments aient été distribués. Il faut également respecter la règle d'équilibre de la distribution. Donc on donne l'élément au joueur qui en a le moins et s'il y a le choix entre plusieurs éléments, c'est le joueur qui choisit et on continue la distribution.
+* Distribuer les rôles
+* Lier les rôles entre eux
+* Faire émerger des objectifs ou des dilemmes propres à chaque rôle.
 
-Une scène de lien doit idéalement faire émerger quelque chose d'intéressant pour la suite du jeu. En fait, autant dans le prélude on a défini des éléments statiques, autant dans l'acte I, le fait de les mettre en relation, cela crée des dynamiques. On apprend qu'un tel est jaloux d'un autre ou qu'un personnage a demandé quelque chose à quelqu'un, etc etc...
+Ainsi le 1er but de l'acte I est de distribuer les rôles et les décors de la réserve aux joueurs tout en créant des objectifs intéressants. En effet, les premières scènes permettent aux joueurs récupérant le rôle de commencer à réfléchir à son objectif principal et d'éventuels objectifs intermédiaires. A défaut d'objectif, la scène a pu à la place révéler un dilemme présent ou latent.
 
-Concrètement, on peut créer un lien:
+Dans une scène de l'acte I, le joueur choisit donc un rôle de la réserve et on attribue les autres aux autres joueurs en commençant par le joueur à gauche et en continuant. Le joueur à gauche choisit l'élément qu'il prend et passe le reste à son voisin jusqu'à ce que tous les éléments aient été distribués. Il faut également respecter la règle d'équilibre de la distribution. Donc on donne l'élément au joueur qui en a le moins et s'il y a le choix entre plusieurs éléments, c'est le joueur qui choisit et on continue la distribution.
+
+Les scènes de l'acte I sont appelées des scènes de liens car elles impliquent toujours au moins un rôle protagoniste en réserve et d'autres rôles.
+
+Une scène de lien doit idéalement faire émerger quelque chose d'intéressant pour la suite du jeu. En fait, autant dans le prélude on a défini des éléments statiques, autant dans l'acte I, le fait de les mettre en relation, cela crée des dynamiques. On apprend qu'un tel est jaloux d'un autre ou qu'un personnage a demandé quelque chose à quelqu'un, etc etc... Non seulement on distribue les rôles, on les relie entre eux mais on fait émerger des objectifs ou des dilemmes propres à chacun des rôles.
+
+Concrètement, on peut baser une scène de l'acte I:
 
 * soit par une rencontre directe
 * soit de manière indirecte : en agissant de sorte que tel personnage soit impacté. Auquel cas la scène est divisée en deux: une 1ère partie montrant l'action du 1er personnage et une 2ème partie montrant l'impact et la réaction du 2ème personnage.
@@ -431,11 +442,21 @@ _Exemple: Joueur A a 3 rôles, Joueur B a 2 rôles et joueur C a 2 rôles -> on 
 
 == Acte II
 
-L'acte II est l'acte des péripéties qui se traduit donc par des scènes d'interaction et/ou par des complications.
+L'acte II est l'acte des péripéties qui se traduit donc par des scènes d'interaction et/ou d'objectif.
 
-On commence par le joueur à gauche du souffleur qui va devoir créer une scène pour faire avancer un objectif ou résoubre un enjeu.
+On commence par le joueur à gauche du souffleur qui va devoir créer une scène pour faire avancer un objectif ou résoudre un enjeu d'un de ses rôles ou présenter une interaction entre différents rôles.
 
-Avant de jouer une scène, chaque autre joueur en tournant dans le sens anti-horaire et donc en commençant par celui à droite du joueur protagoniste, se positionne en déclarant s'il souhaite créer une complication ou pas.
+Dans tous les cas (scène d'interaction ou d'objectif), comme dans l'acte I, chaque rôle impliqué dans la scène obtient un PP et chaque rôle cité obtient 1/2 PP.
+
+=== Les scène d'interactions
+
+Une péripétie peut n'être qu'une simple interaction entre personnages. Pour autant, toute interaction peut engendrer une incertitude quant au comportement de tel ou tel personnage. Dans ce cas, on rentrera dans le cadre d'une complication et on procédera sans doute à un tirage. La scène d'interaction devient alors une scène d'objectif.
+
+=== Les scènes d'objectif
+
+Dans une scène d'objectif, le protagoniste a  un objectif qu'il présente aux autres joueurs. Ces derniers peuvent le couper dans son élan et proposer une complication.
+
+Ainsi, avant de rentrer dans la scène, chaque autre joueur en tournant dans le sens anti-horaire et donc en commençant par celui à droite du joueur protagoniste, se positionne en déclarant s'il souhaite créer une complication ou pas.
 
 Note: quand on a pris l'habitude de jouer, on peut poser sa carte de complication sans respecter l'ordre. Si un autre joueur à sa gauche a la préséance, alors on retire sa carte et on lui laisse poser sa complication.
 
@@ -443,14 +464,7 @@ Si aucune complication n'a lieu, on joue la scène représentant l'atteinte ou p
 
 Par défaut, l'adversité est représentée par le joueur à droite.
 
-
-=== Les interactions
-
-Une péripétie peut n'être qu'une simple interaction entre personnages. Pour autant, toute interaction peut engendrer une incertitude quant au comportement de tel ou tel personnage. Dans ce cas, on rentrera dans le cadre d'une complication et on procédera sans doute à un tirage.
-
-=== Les complications
-
-* *Interruption*: la scène est interrompue et le joueur à l'initiative de l'interruption donne 1 PR au joueur protagoniste.
+* *Interruption*: la scène est interrompue et le joueur à l'initiative de l'interruption donne 2 PR au joueur protagoniste.
 
 * *Ralentissement*: le joueur tire une carte et la pose face cachée pour signifier qu'il va créer une complication qui va ralentir la progression du protagoniste vers son objectif. On utilise alors les règles du tirage pour savoir comment narrer cette complication.
 
@@ -477,7 +491,7 @@ On ne peut plus sauver un personnage et les 1er rôles peuvent mourir.
 
 On ne peut plus faire de complication pour empêcher d'atteindre un objectif.
 
-Il faut dépenser 1 PR pour créer un nouveau personnage (hors figurant dans une scène).
+Il faut dépenser 2 PR pour créer un nouveau personnage (hors figurant dans une scène).
 
 On peut résoudre les enjeux ou atteindre certains objectifs en jouant des scènes d'explication ou de confrontation (voire un mix des deux).
 
@@ -505,7 +519,7 @@ Chaque joueur peut exposer une scène montrant un ou plusieurs de ses personnage
 
 Il est possible d’utiliser 3 Actes dans un même univers avec les mêmes personnages et les mêmes lieux. Chaque partie en 3 actes doit alors être vue comme un épisode de  série. Les liens de l’acte I vont exposer les problèmes qui vont évoluer pendant l’épisode.
 
-Pendant le prélude, on peut créer de nouvelles coulisses et de nouveaux éléments mais on se met surtout d’accord pour choisir quels éléments on garde pour l’histoire qu’on veut créer. Une fois choisis, les éléments repartent avec une présence égale à 0.
+Pendant le prélude, on peut créer de nouvelles coulisses et de nouveaux éléments mais on se met surtout d’accord pour choisir quels éléments on garde pour l’histoire qu’on veut créer. Une fois choisis, les rôles repartent avec une présence égale à 0.
 
 
 === Aux joueurs de jeux de rôles (Jdr)
@@ -565,14 +579,26 @@ _Plan d'une partie:_
 
 * Prélude
     - Choix du souffleur
-    - Choix de la durée
     - Choix du cadre
     - Choix des coulisses: nouvelle coulisse ou 1-2 traits pour une coulisse existante
-    - Création des décors et des rôles (9' moins nombre de joueurs)
+    - Création des décors et des rôles
 * Acte I
 * Acte II
 * Acte III
 * Epilogues
+
+_Création des décors et des rôles pendant le prélude_:
+
+[.stripes-even,cols="5,5,5",options="header""]
+|===
+| Nombre de joueurs | Durée | Nombre de rôles à créer
+| 1 | 8' | 8-10
+| 2 | 7' | 5-6
+| 3 | 6' | 3-4
+| 4 | 5' | 3
+| 5 | 4' | 2
+| 6 | 3' | 2
+|===
 
 _Propositions de cadre_:
 
@@ -609,9 +635,16 @@ s| Résumé | Expositions | Péripéties | Résolutions
 
 s| Début | Le souffleur 2+^| A gauche du souffleur
 
-s| Fin | Plus de persos sans PP | A l'heure choisie au prélude | Plus d'enjeux à résoudre
+s| Fin | Plus de persos sans PP | Proposée par le souffleur | Plus d'enjeux à résoudre
 
-s| But | Créer des liens et distribuer les rôles | Définir des objectifs et créer des complications | Résoudre par l'explication ou la confrontation
+s| But
+a|* Distribuer les rôles
+* Créer des liens entre les rôles
+* Faire émerger des objectifs ou des dilemmes pour chaque rôle
+a| * Créer des scènes d'interaction
+* Créer des scènes d'objectif
+a| * Créer des scènes d'explication
+* Créer des scènes de confrontation
 
 s| Scènes
 a|Scènes de liens:
@@ -619,28 +652,28 @@ a|Scènes de liens:
 * Direct
 * Indirect
 
-a|Scènes d'interaction ou de complication:
+a|Complication possible:
 
-* interruption (-1 PR)
+* interruption (-2 PR)
 *  ralentissement (carte cachée)
 * ajout (carte retournée)
 a|Scènes de résolution:
 
 * Explication
 * Confrontation
+* Mix possible
 
 s| Evolution 2+^| PP pour les personnages et PR pendant les tirages | Plus de gain de PR et PP.
 
 s| Tirage
 a| Rare mais possible en confrontation
 a|
-* On utilise les PP
-* Si résultat défavorable, 1 carte pour 1 PR
-a| On utilise les PR
+* Si résultat défavorable, surenchère via PP puis PR (1 carte par PP, PR)
+a| Surenchère uniquement par PR
 
-s| Létalité | Réserve ou confrontation | Tous sauf max PP du joueur (-1 PR pour sauver un perso) | Tous les personnages
+s| Létalité | Réserve ou confrontation | Tous sauf max PP du joueur (-2 PR pour sauver un perso) | Tous les personnages
 
-s| Création d'élément 2+^| -1 PR pour une nouvelle coulisse | -1 PR pour un nouveau perso
+s| Création d'élément 2+^| -2 PR pour une nouvelle coulisse | -2 PR pour un nouveau perso
 
 s| Voler un élément 3+^| -2PR
 |===
@@ -650,7 +683,7 @@ s| Voler un élément 3+^| -2PR
 <<<
 == Notes de version
 
-Cette version est la version *bêta* du jeu du *25 juin 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
+Cette version est la version *bêta* du jeu du *3 juillet 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
 
 Peu importe comment vous avez obtenu les règles, n’hésitez pas à nous envoyer tout commentaire ou question par courriel car vos avis et retours nous sont précieux: aleascript@gmail.com.
 
