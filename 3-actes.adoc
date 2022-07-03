@@ -477,7 +477,7 @@ Le souffleur fait un résumé des actes I et II pour que tous les joueurs soient
 
 == Acte III
 
-L'acte III est constitué de scènes de résolutions. Les objectifs non atteints sont à portée de main sans complication intermédiaire, des scènes explicatives permettent d'expliquer certaines zones d'ombre et des scènes de confrontation permettent de régler définitivement certains liens.
+L'acte III est constitué de scènes de résolutions. Les objectifs non atteints sont à portée de main sans complication intermédiaire, des scènes explicatives permettent d'expliquer certaines zones d'ombre et des scènes de confrontation permettent de régler définitivement certains objectifs.
 
 On commence par le joueur à droite du souffleur.
 
@@ -517,7 +517,7 @@ Chaque joueur peut exposer une scène montrant un ou plusieurs de ses personnage
 
 === Continuer une partie
 
-Il est possible d’utiliser 3 Actes dans un même univers avec les mêmes personnages et les mêmes lieux. Chaque partie en 3 actes doit alors être vue comme un épisode de  série. Les liens de l’acte I vont exposer les problèmes qui vont évoluer pendant l’épisode.
+Il est possible d’utiliser 3 Actes dans un même univers avec les mêmes personnages et les mêmes lieux. Chaque partie en 3 actes doit alors être vue comme un épisode de  série. Les liens de l’acte I et leurs objectifs sous-jacents vont exposer les problèmes qui vont évoluer pendant l’épisode.
 
 Pendant le prélude, on peut créer de nouvelles coulisses et de nouveaux éléments mais on se met surtout d’accord pour choisir quels éléments on garde pour l’histoire qu’on veut créer. Une fois choisis, les rôles repartent avec une présence égale à 0.
 
@@ -546,7 +546,7 @@ En JdR,  la puissance prime.
 Dans 3 Actes, la présence prime.
 
 En JdR, on peut vouloir mini-maximiser ses gains par rapport à ses stats.
-Dans 3 Actes, le player skill est fait de propositions de liens et de complications  intéressants.
+Dans 3 Actes, le player skill est fait de propositions narratives d'objectifs et de complications  intéressants.
 
 Ajoutons également que par rapport à d’autres jeux narrativistes comme 1001 Nuits, Mnemosyne et PrimeTime Adventure, il n'y a pas d'artifices pour justifier les narrations des joueurs (resp. courtisans pour 1001 Nuits, patients pour Mnemosyne ou acteurs/producteur pour PrimeTime Adventure).
 
