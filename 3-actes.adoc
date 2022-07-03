@@ -577,15 +577,15 @@ Spécificités du mode solo:
 
 _Plan d'une partie:_
 
-* Prélude
+* *Prélude*
     - Choix du souffleur
-    - Choix du cadre
-    - Choix des coulisses: nouvelle coulisse ou 1-2 traits pour une coulisse existante
+    - Choix du cadre: _genre? univers? thème? ton? pitch? précisions? restrictions?_
+    - Choix des coulisses: _nouvelle coulisse ou 1-2 traits pour une coulisse existante_
     - Création des décors et des rôles
-* Acte I
-* Acte II
-* Acte III
-* Epilogues
+* *Acte I*: _scènes de liens: distribuer les rôles, liens entre eux, objectifs des rôles_
+* *Acte II*: __scènes d'interaction ou d'objectif __
+* *Acte III*: _scènes d'explication ou de confrontation (ou mix des deux)_
+* *Epilogues*: _scènes libres liées aux résolutions de l'acte III._
 
 _Création des décors et des rôles pendant le prélude_:
 
@@ -598,19 +598,6 @@ _Création des décors et des rôles pendant le prélude_:
 | 4 | 5' | 3
 | 5 | 4' | 2
 | 6 | 3' | 2
-|===
-
-_Propositions de cadre_:
-
-[.stripes-even]
-|===
-|  Genre?
-|  Univers?
-|  Thème?
-|  Ton?
-|  Pitch?
-|  Précisions?
-|  Restrictions?
 |===
 
 __Table des tirages:__
