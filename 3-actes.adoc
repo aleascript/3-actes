@@ -379,9 +379,10 @@ Le joueur possédant un décor est en charge de la description de ce dernier et 
 
 Synonyme de personnage.
 
-Un rôle possède un qualificatif et éventuellement un nom.
+Un rôle possède un qualificatif et éventuellement un nom. A ce stade du jeu, le rôle est vraiment minimaliste. Tant qu'il n'a pas été distribué à un des joueurs et donc impliqués dans une scène, on ne sait pas grand chose de lui et tout peut encore changer. Ce n'est qu'à l'acte I et les suivants que sa description va être établie et que ses objectifs et relations vont émerger.
 
 Un rôle peut également être un groupe ou être générique. Même si l'on préfère des personnages bien identifiés et bien typés plus intéressants pour la fiction, il arrive, en effet qu'on ait à créer tout un groupe. Le jeu l'autorise. La fiction décidera par la suite si le groupe fait émerger des personnages plus spécifiques.
+
 
 ====
 _Exemple: Commando Delta. Puis plus tard, Lt Gary chef du commando._
@@ -670,7 +671,7 @@ s| Voler un élément 3+^| -2PR
 <<<
 == Notes de version
 
-Cette version est la version *bêta* du jeu du *3 juillet 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
+Cette version est la version *bêta* du jeu du *4 juillet 2022*. Les règles peuvent donc paraître un peu obscures et mal organisées et il manque en particulier des exemples de jeu et des illustrations qui permettent de rendre le jeu plus accessible.
 
 Peu importe comment vous avez obtenu les règles, n’hésitez pas à nous envoyer tout commentaire ou question par courriel car vos avis et retours nous sont précieux: aleascript@gmail.com.
 

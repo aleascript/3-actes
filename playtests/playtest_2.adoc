@@ -19,7 +19,7 @@ Durée: 4h
 * Ton: léger
 * Précisions: les zombies sont des humains avec des parasites.
 
-En gros, les humains se font parasités et obtiennent des pouvoirs divers. En se faisant parasiter ils meurent mais sont possédés en ayant des pouvoirs ou en se prenant pour une autre personne morte depuis longtemps.
+En gros, les humains se font parasiter et obtiennent des pouvoirs divers. En se faisant parasiter ils meurent mais sont possédés en ayant des pouvoirs ou en se prenant pour une autre personne morte depuis longtemps.
 
 ## Coulisses, Décors & Rôles:
 
@@ -35,7 +35,7 @@ En gros, les humains se font parasités et obtiennent des pouvoirs divers. En se
     - Les égouts
     - Notre-Dame
     - La Tour-Eiffel
-    - Cimmetière
+    - Cimetière
     - Place d'Italie
     - Myfer (sans-abri)
 * Les immunisés
@@ -56,7 +56,7 @@ Laval, un archeveque austère et réac, regarde sa télé et voit le pape habit�
 
 ## Scène 2
 
-Le grand recteur Tarik appelle le chef de la police car des morts sortent du cimetiere. Il voit dans ces événements le retour de Shaytan. Le chef de la police finit par le croire ou en tant cas par croire qu'il se passe bel et bien quelque chose du côté du cimetière et accepte d'envoyer une patrouille de police, tout en demandant également d'envoyer une ambulance pour interner Tarik.
+Le grand recteur Tarik appelle le chef de la police car des morts sortent du cimetiere. Il voit dans ces événements le retour de Shaytan. Le chef de la police finit par le croire ou en tout cas par croire qu'il se passe bel et bien quelque chose du côté du cimetière et accepte d'envoyer une patrouille de police, tout en demandant également d'envoyer une ambulance pour interner Tarik.
 
 ## Scène 3 
 
@@ -68,7 +68,11 @@ Où l'on découvre une ombre (Shal-Kâ) ayant échoué à éliminer tous les hum
 
 # Scène 5
 
-Clémentine Martin rentre du lycée et passe devant le cimetière peuplé de zombies. Croyant qu'il s'agit d'un clip de Michael Jackson, elle s'approche avec d'autres badauds. Tarik se trouve déjà là et tout zombie s'en approchant tombe au sol car il est immunisé. Il y a également un frère exalté, le frère Bruno qui voit en cela des signes divins et compte exploiter la chose. Intervient également un autre frère, Frère Jacob qui essaie de calmer les choses et embarque Frère Bruno pour se rendre à Notre-Dame.  
+Clémentine Martin rentre du lycée et passe devant le cimetière peuplé de zombies. Croyant qu'il s'agit d'un clip de Michael Jackson, elle s'approche avec d'autres badauds. Tarik se trouve déjà là et tout zombie s'en approchant tombe au sol car il est immunisé.
+
+Il y a également un frère exalté, le frère Bruno qui voit en cela des signes divins et compte exploiter la chose. Intervient également un autre frère, Frère Jacob qui essaie de calmer les choses et embarque Frère Bruno pour se rendre à Notre-Dame.
+
+Les forces de l'ordre arrivent avec l'ambulance envoyée par le chef de police Abitbol. Les ambulanciers n'arrivent pas à interner Tarik et finissent par tenter d'aider les diverses victimes de Tarik par son immunité fatale aux parasités.
 
 # Acte II
 
