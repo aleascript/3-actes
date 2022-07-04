@@ -1,0 +1,162 @@
+= Playtest #1
+
+# Présentation
+
+Joueurs:
+
+* Carole (merci pour le CR)
+* Sylvain A
+* Syvain R
+* Géraldine
+* Nico (souffleur)
+
+Durée: 4h
+
+Cadre:
+
+* Futuriste
+* Les machines sont omniprésentes et en conflit avec une partie de l'humanité
+
+
+# Acte 1
+
+## Tour 1
+
+Le Dalaï Lama est un jeune homme esthétiquement un peu trop parfait, il vit dans sa maison au bord
+du Lac Acide. Il est sur sa terrasse, tranquillement installé. On peut observer des êtres, dont on ne
+distingue pas le visage à cause de masque, qui vont chercher quelque chose au bord du lac.
+
+Le Dalia Lama se trouve dans la même maison, il est d’apparence humanoïde et androgyne, chauve
+avec un gros « 1 » tatoué sur la poitrine. Il échange avec le Dalaï Lama sur leur volonté d’aller dans
+l’espace. Ils savent que Bob, le général des armées anti-machine, ferait exploser leur fusée si elle
+contenait des robots. Si cela arrivait, les machines lâcheraient une arme bactériologique sur le
+monde pour se venger, ce sui tuerait tous les êtres humains.
+
+Le Dalaï Lama et le Dalia Lama se présentent comme des médiateurs, qui ne souhaitent pas prendre
+parti sur le sujet (ils veulent aller dans l’espace mais pas pour favoriser les Hommes ou les machines).
+
+Le Dalia Lama a été créé par le Dalaï Lama, il est son clône robotique.
+
+Ils décident de faire croire à Bob qu’il faut mettre en place une mission pour envoyer des humains
+dans l’espace pour des raisons vitales (manque de ressource sur Terre) et d’en profiter pour mettre
+quelques machines dans la fusée. Pour cela, ils passent par leur interprète, l’inspecteur Willis.
+
+## Tour 2
+
+Willis a été contacté par le Dalaï Lama. Il ne sait pas qu’il est lié au Dalia Lama. Il décide de contacter
+
+Jean-Eudes, politicien affilié à ProSpicy, pour lui demander de démarrer la mission pour sauver
+l’humanité. Jean-Eudes accepte et propose d’envoyer une cyborg, Olga, car elle est dans la panade et
+n’a rien à perdre.
+
+## Tour 3
+
+Plop, un robot assistant ménager pacifique, et Watson, un chien devenu le meilleur ami des
+machines, se trouvent dans une base terrienne de lancement spatial. Ils trouvent un homme au
+regard vide dans des décombre de chantier, il semble blessé et ses bras sont des prothèses médicales
+(il ressemble à un punk à chien). Ils l’approchent et sympathisent, l’homme leur raconte qu’il était
+dans l’armée anti-machine sous les ordres de Bob, qu’il a été sauvé durant la grande guerre de
+destruction des Nodes (des bases IA) par des machines qui lui ont greffé ces bras. Il ne déteste donc
+plus les machines et il se lie d’amitié avec Plop et Watson. Il se nomme Kiki.
+
+## Tour 4
+
+Le Dalia Lama se fait passer pour le Dalaï Lama (sans l’accord de ce dernier) et se rend chez Gon pour
+lui demander d’envoyer dans l’espace un dénommé John Snow. Gon est un militant anti-machine,
+quadragénaire alcoolique et dépressif qui vit à la Marge, une zone humaine assez chaotique. Il ne sait
+pas que John Snow est en réalité une machine qui souhaite explorer l’espace et qui serait donc
+infiltré dans la mission. Etant en manque d’argent, Gon accepte la mission à condition qu’on lui
+ramène la tête du docteur Cyberstain, une machine anti-humanité. Le Dalïa Lama lui dit qu’il ne peut
+pas le tuer lui-même mais qu’il fermera les yeux si les êtres humains le tuent.
+
+# Acte 2
+
+## Bob
+
+Bob est dans son bunker antiatomique, il surveille tout ce qu’il se passe. C’est un vieil homme
+baraqué a l’œil crevé dont la mâchoire est partiellement réparée avec une plaque métallique (ce
+n’est cependant pas un cyborg). Il a surveillé les conversations et à tout entendu de ce qu’il s’est
+passé. Dans un style américain, il sort un cigare et contact l’équipe Delta. Cette dernière ne répond
+pas tout de suite, ce qui irrite Bob qui tire sur l’opérateur et le tue. Il rappelle l’équipe Delta qui
+répondent mais sont en difficulté : ils se trouvent cher le docteur Cyberstain pour le tuer, mais la
+mission est difficile.
+Bob leur dit de se dépêcher de finir, avant d’aller tuer le Dalaï Lama qui est un traitre et qui a été vu
+pour la dernière fois à la Marge.
+
+## Dalia Lama
+Le Dalia Lama est au téléphone avec le docteur Cyberstain, en train de préparer la mission de
+lancement de la fusée. L’équipe Delta arrive soudainement et tirent sur le Dalia Lama (ils ont
+abandonné leur mission contre Cyberstain). Pour manipuler Cyberstain, le Dalïa Lama crie « Gon,
+espèce d’enfoiré ! » avant de s’écrouler. Cyberstain est très en colère, cependant on ne tue pas une
+IA si facilement…
+
+## Willis
+Willis enquête sur le lien entre Jean Eudes et Olga. Il trouve louche le choix d’une cyborg pour cette
+mission, d’autant plus qu’elle n’est pas connue de l’inspecteur. Il entame une filature pour en savoir
+plus sur Jean-Eudes, mais il se fait repérer.
+
+## Jean Eudes
+Jean Eudes trouve Willis trop intrusif depuis peu et le trouve louche : pourquoi le Dalaï Lama ne l’a
+pas contacté lui directement ? Pourquoi passer par Willis ? Alors qu’il se déplace en voiture, son
+chauffeur lui signale qu’ils sont suivis, et qu’il s’agit de Willis. Lassé de la situation, Jean Eudes
+demande d’arrêter le véhicule et confronte Willis en face à face.
+Willis accepte d’échanger et lui demande qui est Olga. Pour mener la mission à bien, Jean Eudes
+décide d’être coopératif et lui explique qu’elle est une militante de la cause humaine et agent secret
+à leur solde. Elle est également sa fille, en qui il a toute confiance.
+
+## Gon, John Snow et Kiki
+
+Gon et John se sont rendu dans la base spatiale pour s’infiltrer dans la fusée. John Snow est une IA à
+l’apparence d’un homme grand et brun. Ils décident de se faire passer pour des techniciens pour
+entrer dans le local technique. Au loin, Kiki les voit et les trouve louche.
+
+Jean Eudes se change en cosmonaute et monte discrètement dans la fusée. Gon s’en va mais tombe
+face à Plop, Watson et Kiki. Ce dernier lui demande ce qu’il fait là en l’intimidant. La réponse n’étant pas claire, il décide d’appeler la centrale (il travaille sur le chantier) pour prévenir qu’il y a deux hommes louches.
+
+Au bout du fil, le Dalaï Lama se fait passer pour la centrale et lui interdit d’intervenir, en précisant que les deux hommes doivent monter dans la fusée. Gon fait donc demi-tour et part dans la fusée, mais Plop et Watson le suivent avec l’air inquiet. Kiki décide alors d’en faire de même pour comprendre ce qu’il se passe.
+
+Le compte à rebours commence, Olga, Gon, John Snow, Kiki, Watson et Plop décollent vers l’espace.
+
+# Acte 3
+
+Bob appelle la centrale car la fusée part trop tôt. Le Dalia Lama, qui intercepte toujours l’appel, lui dit
+qu’ils l’ont bien baisés et que seul Gon peut les sortir de là. Bob décide alors d’envoyer l’équipe Delta
+dans l’espace grâce à une technologie bancale de téléportation, très incertaine. Mais la téléportation
+fonctionne et l’équipe Delta se retrouve dans la navette.
+Le Dalia Lama prévient vite John Snow pour lui dire que l’équipe Delta ne fera pas dans la dentelle et
+va tuer tout le monde.
+L’équipe Delta avance et tombe sur Plop, Watson et Kiki. Ils se mettent à tirer sans distinction, et
+Watson n’a pas le temps de se cacher. Il est lourdement touché et aboie très fort, ce qui alarme tout
+le monde dans la fusée. Kiki attrape Watson et Plop et s’enferme d’en une salle avec eu en cassant le
+panneau de contrôle pour bloquer la porte. Il pleure tristement, « C’était pas ta guerre Watson ! »
+dit-il. Il décide de partir chercher des armes.
+L’équipe Delta continu son ascension dans la fusée, et se retrouve face à Gon et John Snow. Ce
+dernier attrape Gon et s’en sert comme bouclier humain lorsque l’équipe ouvre le feu, ce qui le
+condamne immédiatement.
+Plop, pacifique et paniqué, décide de tenter de mettre fin à toute cette violence. Il se connecte au
+système de la fusée, non sans difficulté. Il se tourne une dernière fois vers Kiki, lui présente ses
+excuses, et ouvre les vannes pour faire le vide dans toute la partie inférieure de la fusée.
+L’équipe Delta et Kiki meurent (Kiki a le regard réellement vide désormais), mais Olga survie, cachée
+en haut de la fusée. Lorsqu’elle vient voir ce qu’il se passe, elle se rend compte que John Snow ne
+meure pas, et qu’il est donc une machine. Celui qui était son mari depuis des années lui avait donc
+menti ! Que faire ? Le ramener dans le vaisseau, ou l’abandonner dans le vide ? Sauver l’humanité,
+ou les machine ? Après tout, Olga est une cyborg qui appartient un peu aux deux camps finalement…
+
+# Epilogues
+Olga et John Snow se promène librement sur une planète lointaine, qu’ils ont réussi à coloniser. De
+temps en temps, ils tournent leurs regards dans le vide intersidéral, en direction de la Terre qu’ils ont
+abandonné à son triste sort.
+
+Sur Terre, Bob a envoyé des missiles nucléaires en direction des zones machines pour se venger, et
+les IA ont immédiatement répondu avec l’arme bactériologique. La Terre voit son histoire se terminer
+ainsi.
+
+# Débrief
+
+Ca fonctionne globalement malgré un contexte de jeu assez bruyant: on était nombreux et assez dissipés. On est arrivé au bout de l'histoire avec un beau final cohérent.
+
+Cela a permis de revoir:
+
+* La répartition des rôles (certains avaient peu de rôles et d'autres beaucoup)
+* Le gain en PR (aussi en cas de victoire)
+* Il manquait dans cette partie, la feuille de cadre et un livret joueur pour bien garder trace de ses différents rôles et objectifs.
